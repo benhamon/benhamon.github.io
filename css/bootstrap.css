@@ -9,36 +9,10 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-body {
-  margin: 0;
-}
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
-}
-audio,
-canvas,
-progress,
-video {
-  display: inline-block;
-  vertical-align: baseline;
-}
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
-[hidden],
+body {margin: 0;}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {display: block;}
+audio,canvas,progress,video {display: inline-block;vertical-align: baseline;}
+audio:not([controls]) {display: none;height: 0;}[hidden],
 template {
   display: none;
 }
@@ -1141,15 +1115,8 @@ img {
        -o-transition: all .2s ease-in-out;
           transition: all .2s ease-in-out;
 }
-.img-circle {
-  border-radius: 50%;
-}
-hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border: 0;
-  border-top: 1px solid #eee;
-}
+.img-circle {border-radius: 50%;}
+hr {margin-top: 20px;margin-bottom: 20px;border: 0;border-top: 1px solid #eee;}
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1413,31 +1380,14 @@ a.bg-danger:focus {
   margin: 40px 0 20px;
   border-bottom: 1px solid #eee;
 }
-ul,
-ol {
-  margin-top: 0;
-  margin-bottom: 10px;
-}
-ul ul,
-ol ul,
-ul ol,
-ol ol {
-  margin-bottom: 0;
-}
-.list-unstyled {
-  padding-left: 0;
-  list-style: none;
-}
-.list-inline {
-  padding-left: 0;
-  margin-left: -5px;
-  list-style: none;
-}
-.list-inline > li {
-  display: inline-block;
-  padding-right: 5px;
-  padding-left: 5px;
-}
+ul,ol {margin-top: 0;margin-bottom: 10px;}
+ul ul,ol ul,ul ol,ol ol {margin-bottom: 0;}
+/*.list-unstyled {padding-left: 0;list-style: none;}
+.list-inline {padding-left: 0;margin-left: -5px;list-style: none;}
+.list-inline > li {display: inline-block;padding-right: 5px;padding-left: 5px;}*/
+.list-unstyled {padding-left: 0;list-style: none;}
+.list-inline {padding-left: 0;margin-left: -5px;list-style: none;}
+.list-inline > li {display: inline-block;padding-right: 5px;padding-left: 5px;}
 dl {
   margin-top: 0;
   margin-bottom: 20px;
