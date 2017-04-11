@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.13)  11 APR 2017 16:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.13)  11 APR 2017 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1715,18 +1715,18 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 11.39996pt on input line 13.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
  [1
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./picture.p
 ng>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
 
 (./menu-juice-bar-tragos-2017-04-2da-semana.aux
 <Reading QR code for "http://juicebarcba.com/" at level 2-M from aux file.>
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `menu-juice-bar-tragos-2017-04-2da-semana.out
 ' has not changed.
 (rerunfilecheck)             Checksum: E7C8354F36CA73D80C82642021668412;183.
@@ -1743,7 +1743,7 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on menu-juice-bar-tragos-2017-04-2da-semana.pdf (1 page, 37831 b
+Output written on menu-juice-bar-tragos-2017-04-2da-semana.pdf (1 page, 38183 b
 ytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
