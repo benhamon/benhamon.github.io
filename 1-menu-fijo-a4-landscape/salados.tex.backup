@@ -1,9 +1,4 @@
 \section{\textsc{\textbf{Para comer}}}
-
-\cventry{\$ 5}{Chipá / Criollos}{ }{}{}{}
-\cventry{\$ 10}{Media luna / Pan de campo}{ }{}{}{}
-% \cventry{\$ 10}{Pan de campo}{ }{}{}{}
-
 \cventry{\$ 20}{Muffin}{de banana con chia}{}{}{} % arguments 3 to 6 can be left empty
 
 \cventry{\$ 60}{Tapas con 3 Salsas de Queso Crema}{}{}{}{perejil, chimi-churri, ajo \& albahaca} 
