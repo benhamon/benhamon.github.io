@@ -13,7 +13,10 @@
 \newcommand\Hi{20mm}  \newcommand\Hii{100mm} % \usepackage[T1]{fontenc}
 \usepackage{amsmath} \usepackage{amssymb} \usepackage{qrcode}  \usepackage[export]{adjustbox}
 \usepackage{xpatch}
-\xpatchcmd{\cventry}{.\strut}{\strut}{}{} \xpatchcmd{\cventry}{,}{}{}{} \xpatchcmd{\cventry}{,}{}{}{}
+\xpatchcmd{\cventry}{.\strut}{\strut}{}{} 
+\xpatchcmd{\cventry}{,}{}{}{} 
+\xpatchcmd{\cventry}{,}{}{}{}
+\xpatchcmd{\cventry}{,}{}{}{\Huge}
 
 \firstname{Jugos hechos en el momento con}
 \lastname{Frutas Naturales}
