@@ -4,18 +4,24 @@
 
 \begin{document} \makecvtitle \vspace*{-1.2cm} 
 \begin{multicols}{2} \setlength{\maincolumnwidth}{\linewidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}
-\input{qrcode}
+% \input{qrcode}
 \input{jugos} \columnbreak \input{tragos}
 \end{multicols}
 % % % % % % % % % % % % % % % % % % % % % % % % 
 \begin{multicols}{2} \setlength{\maincolumnwidth}{\linewidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}
 \input{infusiones}
-\input{cervezas} 
+\input{cervezas} \columnbreak
 \input{bebidasfrias} 
 \input{salados} 
 
 \end{multicols}
 
+\quote{%
+* \textsc{Jugos hechos en el momento con frutas naturales de estación} \\
+Prensado lento.	Sin azúcar (excepto limonada y açaí) 
+(Sí, tenemos AÇAÍ!!!) \\
+Sabores actualizados periódicamente. Más info en http://juicebarcba.com/
+}
 \end{document}
 
 
