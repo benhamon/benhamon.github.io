@@ -2,7 +2,13 @@
 \usepackage[paperheight=280mm,paperwidth=395mm,margin=1in,heightrounded]{geometry}
 \input{metadata}
 
-\begin{document} \makecvtitle \vspace*{-1.2cm} 
+\begin{document} 
+
+\input{placemat}
+
+\makecvtitle 
+% \end{document}
+\vspace*{-1.2cm} 
 \begin{multicols}{2} \setlength{\maincolumnwidth}{\linewidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}
 \input{qrcode}
 \input{jugos} \columnbreak \input{tragos}
