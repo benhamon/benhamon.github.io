@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="pics/logo.png">
+	<title> Juice Bar </title>
+	<meta name="description" content="Menú">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<link rel="stylesheet" href="stylesheets/main.css">
+	<link rel="canonical" href="/">
+	<link rel="icon" type="image/x-icon" href="pics/logo.png">
+	<style> @import url('https://fonts.googleapis.com/css?family=Montserrat'); </style>
+	<style>
+	/* Menu inspirado en la carta - diseño by aeonfr.com */
+
+	/* color: orange; Se reemplazó el color de acento de la página porque traía problemas de accesibilidad (personas con grado de daltonísmo). este color pasa el test WCAG AA, pero no pasa el WCAG AAA. Como se espera que el tamaño del texto sea grande (más de 14pt), debería seguir siendo legible. */
+	a, a:visited { color: #ff5e00; text-decoration: none}
+	a:hover, a:focus{ color: #006a87; }
+	/* nota: el gris del "footer" de la página es particularmente poco saturado. Esto incluso podría traer problemas de legibilidad si el brillo o contraste de la pantalla no está muy alto (si le da el sol x ejemplo). Se recomendaría usar un #666666 para texto chico y un #777777 para texto grande. Estos valores no pasan el estricto WCAG AAA, pero mejoran bastante la legibilidad manteniendo la estética. Esto acá reemplaza otra regla de la hoja de estilos porque se carga después */
+	.page-footer .footer-line{
+		color: #666666;
+	}
+
+		.block{ display: block; }
+		.bg-image{ background-size: cover; }
+		.image-juice{background-color: orange; 
+			/* mientras carga la imágen, hace que el texto sea legible dandole un fondo naranja*/
+			padding-bottom: 25%;padding-top: 25%;background-image: url('pics/jugos-naturales.jpg');}
+
+		.menu-wrapper{padding: 0;list-style: none;padding-left: 2.5em;}
+		[itemprop="MenuSection"]{color: #007da1;font-weight: bold;font-variant: small-caps;font-size: 1.5em;}
+		[itemprop="MenuSection"] h3{margin-top: 1.5em;margin-bottom: 0.5em;}
+		[itemprop="MenuSection"] small{font-variant: initial;font-weight: initial;font-size: 0.5em;line-height: 1.2em;max-width: 30em;margin-top: -0.5em;}
+		[itemprop="MenuSection"] h3:before{content: '';display: block;width: 1.5em;margin-left: -2em;margin-bottom: -1em;border-bottom: 2px solid #ff5e00;}
+		.menu-mastheader{color: white;font-size: 2rem;text-align: center;}
+		.menu-mastheader small{margin: 0.5em auto;font-size: 0.5em;}
+		[itemprop="menuItem"]{margin: 1em 0;}
+		[itemprop="menuItem"] .price{margin-left: -3em;height: 0; /*font-size: 0.8em;*/ }
+		.price, .gray{color: #777777; 
+			/*cambiado el color "gray" x #777777 mejorar el contraste para personas con daltonismo u otros problemas de visión*/	}
+	</style>
+  </head>
+  <body class="theme-default">
+	<div class="wrapper" itemscope itemtype="http://schema.org/FoodEstablishment">
+	  <header class="page-header">
+
+		<img src="pics/logo.png" style="width: 30%" alt="Juice Bar Córdoba" class="avatar" itemprop="image">
+		<h1 class="header-name"></h1>
+		<div class="title-bar"> 
+
+			<h2><span style="color: #777">FRUTA FRESCA <br>sano es rico</span></h2>
+
+		</div>
+
+		<div class="executive-summary" itemprop="menu">
+
+
+
+			<h2 class="menu-header menu-mastheader bg-image image-juice">
+				Menú
+			</h2>
+			<small class="block" style="text-align: right;margin-top: -1em">↻ 05/13/2017</small>
+			<ul class="menu-wrapper">
+
+				<!-- Jugos -->
+				<li itemprop="MenuSection">
+					<h3>Jugos</h3>
+					<small class="block gray"><em>Hechos en el momento con <b>frutas naturales</b>. Prensado lento. Sin azúcar excepto Limonada y Açaí</em></small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>Vitamina.</b> açaí, naranja, manzana verde <small class="block">proteico</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Pyrus Comosus.</b> ananá, pera, naranja <small class="block">bajo en colesterol</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Hulk.</b> espinaca, pera, naranja <small class="block">aporta hierro</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Bahama.</b> ananá, mango, manzana <small class="block">anti-inflamatorio</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>G-Snap.</b> naranja, zanahoria, jengibre <small class="block">anti-oxidante</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Pink Beet.</b> remolacha, pera, manzana verde <small class="block">energético</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Limonada fresca.</b> limón, pepino, menta <small class="block">anti-resfrío</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Limonada a la pera.</b> limón, pera, apio, menta <small class="block">digestivo</small>
+				</li>
+
+				<!-- Café -->
+				<li itemprop="MenuSection">
+					<h3>Café</h3>
+				</li>
+				<li itemprop="menuItem">
+					<b>Café sólo</b>
+					<span class="block">
+						<small class="gray">$20</small>
+						pocillo
+					</span>
+					<span class="block">
+						<small class="gray">$30</small>
+						jarrito
+					</span>
+					<span class="block">
+						<small class="gray">$40</small>
+						grande
+					</span>
+				</li>
+
+				<!-- Panes -->
+				<li itemprop="MenuSection">
+					<h3>Para acompañar</h3>
+					<small class="block gray"><em>Ideal para acompañar con un café o jugo</em></small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$5</div>
+					<b>Chipá / Criollo</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$10</div>
+					<b>Medialuna / Pan de campo</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$20</div>
+					<b>Muffin de banana con chía</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$20</div>
+					<b>Muffin de naranja</b>
+				</li>
+
+				<!--  Desayuno / Merienda -->
+				<li itemprop="MenuSection">
+					<h3>Combos desayuno / merienda</h3>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b><em>light</em></b>
+					<span class="block">yogur natural + frutas de estación + granola con jugo de naranja grande</span>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>completo</b>
+					<span class="block">café con leche + jugo de naranja grande + mermelada y queso + 3 criollos</span>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>de campo</b>
+					<span class="block">café c/leche + pan integral de campo + jugo de naranja grande + mermelada y queso</span>
+				</li>
+
+				<!-- Cerveza -->
+				<li itemprop="MenuSection">
+					<h3>Cerveza</h3>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>Corona</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>Quilmes Cristal</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$80</div>
+					<b>Iguana</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$100</div>
+					<b>Stella Artois*</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$110</div>
+					<b>Patagonia*</b>
+				</li>
+				<li itemprop="menuItem"><small>* Preguntanos por variedades rubias, rojas, negras y de trigo.</small></li>
+
+				<!-- Salado -->
+				<li itemprop="MenuSection">
+					<h3>Salado</h3>
+					<small class="block gray"><em>Picadas y comidas naturales</em></small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$60</div>
+					<b>Tapas con 3 Salsas de Queso Crema.</b>
+					<span class="block">- perejil, chimi-churri, ajo & albahaca</span>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>Bagels de pan negro.</b>
+					<span class="block">- jamón, queso</span>
+					<span class="block">- queso crema, tomate, salsa a elección</span>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$130</div>
+					<b>Pizzas Integrales.</b>
+					<span class="block">- cebollas caramelizadas, queso brie</span>
+					<span class="block">- napolitana: tomate, queso, ajo y perejil</span>
+					<span class="block">- queso, champiñones, cebolla de verdeo, panceta crocante</span>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$160</div>
+					<b>Calzonis con harina integral.</b>
+					<span class="block">- italiano: queso, pimientos, champiñones</span>
+					<span class="block">- pollo: con queso, cebolla, pimientos</span>
+				</li>
+
+				<!-- Bebidas Frías -->
+				<li itemprop="MenuSection">
+					<h3>Bebidas frías</h3>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$30</div>
+					<b>Agua / Gaseosa</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$40</div>
+					<b>Isotónica</b> <em>(Powerade)</em>
+				</li>
+
+				<!-- Tragos -->
+				<li itemprop="MenuSection">
+					<h3>Tragos</h3>
+					<small class="block gray"><em>Sabores actualizados periódicamente. Hechos en el momento con frutas naturales.</em></small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$70</div>
+					<b>Campari con Naranja</b>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$80</div>
+					<b>Mojito Infusión de Fruta Dulce</b>
+					<small class="block">bacardi, menta, sour, almíbar, sprite, fruta dulce a elección</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$80</div>
+					<b><em>Tranky Panky</em></b>
+					<small class="block">absolut, cereza maraschino, helado de limón, triple sec, jugo de naranja</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$80</div>
+					<b>Gin Tonic</b>
+					<small class="block">absolut, agua tónica, limón</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$100</div>
+					<b>Green Collins</b>
+					<small class="block">gin tanqueray, pepino, almíbar, sour</small>
+				</li>
+				<li itemprop="menuItem">
+					<div class="price">$120</div>
+					<b>Baileys con Helado</b>
+					<small class="block">baileys, helado americana, salsa de chocolate</small>
+				</li>
+				
+			</ul>
+
+
+		</div>
+	  </header>
+
+	  <hr>
+	  <center>
+		<img src="pics/lima-c8twwq5znuw-hoach-le-dinh-web.jpg" style="width: 32%" itemprop="image"> <img src="pics/frutillas-fcrgmqqvl-w-darius-anton-web.jpg" style="width: 32%" itemprop="image"> <img src="pics/jugo-frutilla-iqisymfr0rm-freestocks-org-web.jpg" style="width: 32%" itemprop="image">
+	  </center>
+
+	  <footer class="page-footer">
+		<p class="footer-line">
+			<strong>Juice Bar</strong>
+		</p>
+		
+		<p class="footer-line"> 
+			☎ <a href="tel:+549351 422 0289" style="color: #777777">422 0289</a>
+			<br>
+			☺ Rondeau 646 <br>
+			Nueva Córdoba | <nobr>Córdoba | Argentina</nobr>
+		</p>
+		<p class="footer-line">
+			<br>
+			<strong>Horarios</strong>
+		</p>
+		<p class="footer-line">Lunes a Viernes [8 – 14 hs / 18 – 23]</p>
+		<p class="footer-line">	Viernes y Sábado [Mañana y Noche]</p>
+		<p class="footer-line">	Domingo [Noche]</p>
+		
+	  </footer>
+
+	  <center>
+			<a href="https://m.facebook.com/juicebarcba/"><img src="pics/facebook_social_media_online.png" sizes="16x16" style="width: 10%"> </a>
+			&nbsp; &nbsp;
+			<a href="https://www.instagram.com/juicebarcba/"><img src="pics/instagram_social_media_online.png" sizes="16x16" style="width: 10%"> </a> 
+			
+			
+		<h6>¿Reciclás? <!-- Compostamos en casa --> | Mirá estos proyectos: 
+			<nobr>[ <a href="https://youtu.be/Z38eCz0Bwwk?t=1">Lombricompuesto</a> ]
+			</nobr><nobr>[ <a href="https://youtu.be/fsqLJNyrVss?t=77">Precious Plastic</a> ]</nobr>
+		</h6>
+	  </center>
+
+	  <pre></pre>
+
+	</div>
+  </body>
+</html>
