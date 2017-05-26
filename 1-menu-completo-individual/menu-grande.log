@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  18 APR 2017 12:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  26 MAY 2017 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1770,21 +1770,23 @@ or  <return>  to continue without it.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 6.
 ) (./bebidasfrias.tex) (./salados.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
+
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 23.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 25.
 
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 23.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 25.
 (/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 23.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 25.
 
 (/usr/share/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.40245pt on input line 23.
+(Font)              scaled to size 10.40245pt on input line 25.
 
 Overfull \hbox (58.84483pt too wide) has occurred while \output is active
  []|[] 
@@ -1800,7 +1802,6 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 {/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pics/log
 o-eps-converted-to.pdf> <./pics/recycling-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
 
 (./menu-grande.aux
@@ -1818,11 +1819,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  24585 strings out of 493013
  394158 string characters out of 6139317
- 513479 words of memory out of 5000000
+ 515502 words of memory out of 5000000
  27730 multiletter control sequences out of 15000+600000
  68502 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,14n,52p,10445b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,14n,51p,10445b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf-dist/f
 onts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texmf-dist/fonts/enc/
 dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr
@@ -1831,7 +1832,7 @@ xmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf-dist/fonts/type1/pu
 blic/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><
 /usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dis
 t/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on menu-grande.pdf (1 page, 90230 bytes).
+Output written on menu-grande.pdf (1 page, 90112 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
