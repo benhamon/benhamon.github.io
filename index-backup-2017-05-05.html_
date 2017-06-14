@@ -1,5 +1,5 @@
 <!DOCTYPE html><html>
-	<!-- ya tenemos wifi: juice bar / bardejugos -->	
+	<!-- ya tenemos wifi. Arneteeb3 / E9EB9E357F -->	
 	<head>
 		<meta charset="utf-8"> 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,7 @@
 	<h2><em> <span style="color: gray">FRUTA FRESCA <BR>sano es rico</span> </em> </h2> </div> <!-- abrimos el __ de febrero/marzo 2017 -->
 			
 <!-- CONTENIDOS	-->	<div class="executive-summary" itemprop="description">			
-	<h2><span style="color: orange">menú para el frío: sopas</span> <script type="text/javascript"> var m = "  &#x21bb;  " + document.lastModified; var p = m.length-8;document.writeln("<div style='font-size: 14px;'>"); document.write(m.substring(p, 0)); document.writeln("</div>");	</script> </h2>
+	<h2><span style="color: orange">menú</span> <script type="text/javascript"> var m = "  &#x21bb;  " + document.lastModified; var p = m.length-8;document.writeln("<div style='font-size: 14px;'>"); document.write(m.substring(p, 0)); document.writeln("</div>");	</script> </h2>
 
 		<strong style="color: orange"; style="font-weight:bold";>Jugos (con frutas de estación)</strong><span style="color: gray"> * [<nobr>actualizados periódicamente]</nobr></span>
 	<ul> 
@@ -27,21 +27,25 @@
 	<nobr>Prensado lento.</nobr>	
 	<nobr>Sin azúcar (excepto limonada y açaí)</nobr> <br> (Sí, tenemos AÇAÍ!!!)	</p> 
 	
-	<li><em>Pyrus Comosus.</em> ananá, pera, naranja [baja colesterol]</li>
-	<li><em>Hulk.</em> espinaca, pera, naranja [aporta hierro]</li> 
+	<!-- li><em>Increíble Hulk</em>. espinaca, naranja, pera </li> -->
+	
+	<li><em>Pyrus Comosus.</em> ananá, pera, naranja</li>
+	<li><em>Hulk.</em> espinaca, pera, naranja </li> 
 	<!-- <li><em>Bitter Melon.</em> melón, limón, manzana verde</li> -->
-	<li><em>Bahama.</em> ananá, mango, manzana [anti-inflamatorio]</li>
-	<li><em>G-Snap</em>.	naranja, zanahoria, jengibre [anti-oxidante] </li> 
-	<li><em>Pink Beet.</em> remolacha, pera, manzana verde [energético]</li>
-	<li><em>Limonada fresca</em>. limón, pepino, menta [anti-resfrío] <!-- [con azúcar ó leche condensada] -->
+	<li><em>Bahama.</em> ananá, mango, manzana</li>
+		
+	<!-- <li><em><!-- Feliz Cumple MDZ.</em> manzana, durazno, zanahoria</li> -->
+	<li><em>G-Snap</em>.	naranja, zanahoria, jengibre </li> 
+	<li><em>Pink Beet.</em> remolacha, pera, manzana verde</li>
+	<li><em>Limonada fresca</em>. limón, pepino, menta <!-- [con azúcar ó leche condensada] -->
 	<!--.	agua, hielo, limón, menta --></li> 
-	<li><em>Limonada a la pera</em>. limón, pera, apio, menta [digestivo]</li> <br> 
+	<li><em>Limonada a la pera</em>. limón, pera, apio, menta</li> <br> 
 			<!-- <nobr>[Jarra 1,5 lts]</nobr>	--> <!-- [<strong style="color: gray"; style="font-weight:bold">Jarra</strong>] -->
 	<!-- <nobr>[Jarra 1,5 lts]</nobr> -->	<!-- [<strong style="color: gray"; style="font-weight:bold">Jarra</strong>] -->	
-	<!-- <li><em>Bitter Melon.</em> melón, limón, manzana verde</li> -->
+	
 	<!-- <li><em><strong>VITAMINA</strong>.</em> açaí, naranja, manzana 
 	verde </li> -->
-	<span style="color: orange"><strong>VITAMINA</strong> </span>  $70 |  açaí, naranja, manzana verde [proteico]</h5><br>
+	<span style="color: orange"><strong>VITAMINA</strong> </span>  $70 |  açaí, naranja, manzana verde </h5><br>
 	<!-- <span style="color: orange">promo </span>  $70 |  cualquier jugo + 3 chipás </h5><br>
 	<span style="color: orange">promo </span>  $80 |  bahama + muffin </h5> -->
 	
@@ -54,25 +58,15 @@
 			<thead> 
 				<tr class="header"> 
 					<th> </th> 
-					<th align="center">café solo</th>
-					<!-- <th align="center">  &#160; &#160;  [jarrito] &#160;  &#160;</th> 	-->
-					<!-- <th align="center">  &#160; &#160;  [grande]  &#160; &#160;</th> -->
+					<th align="center"> &#160; &#160; [pocillo]  &#160; &#160; </th>
+					<th align="center">  &#160; &#160;  [jarrito] &#160;  &#160;</th> 	
+					<th align="center">  &#160; &#160;  [grande]  &#160; &#160;</th>
 				</tr></thead> 
 		<tbody> <tr class="odd"> 
-				<td>[pocillo]</td> 
+				<td>Café solo</td> 
 				<td align="center">$20</td> 
-				<!-- <td align="center">$30</td> 
-				<td align="center">$40</td> -->
-		<tbody> <tr class="odd"> 
-				<td>[jarrito]</td> 
 				<td align="center">$30</td> 
-				<!-- <td align="center">$30</td> 
-				<td align="center">$40</td> -->
-		<tbody> <tr class="odd"> 
-				<td>[grande]</td> 
 				<td align="center">$40</td> 
-				<!-- <td align="center">$30</td> 
-				<td align="center">$40</td> -->
 				</tr>
 		
 		<!-- -->
@@ -88,18 +82,18 @@
 		<h5><sup>†</sup> Pan de campo tostado, con mermelada, queso untable, y jugo de naranja grande  </h5> 
 		</ul> -->
 		
-		<!--<td><hr>  </td> <td align="center"><hr> </td> <td align="center"></td> <td align="center"></td> </tr>
+		<td><hr>  </td> <td align="center"><hr> </td> <td align="center"></td> <td align="center"></td> </tr>
 		<td><hr> chipá / criollo </td> <td align="center"><hr> $5</td> <td align="center"></td> <td align="center"></td> </tr>
 		<!-- <tr class="odd"><td>criollo </td> <td align="center">$5</td> <td align="center"></td> <td align="center"></td> </tr> -->
-		<!-- <tr class="odd"><td>&#189; luna / Pan de campo</td> <td align="center">$10</td> <td align="center"></td> <td align="center"></td> </tr> -->
+		<tr class="odd"><td>&#189; luna / Pan de campo</td> <td align="center">$10</td> <td align="center"></td> <td align="center"></td> </tr> 
 		<!-- <tr class="odd"><td>Pan de campo</td> <!-- <td align="center">$40</td> <td align="center">$50</td> <td align="center"> $60</td> </tr> </tbody> </table> 
 		 <td align="center">$10</td> <td align="center"> </td> <td 
-		 align="center"> &#160; <sup> </sup></td> </tr>  -->		 
-
-<!--
+		 align="center"> &#160; <sup> </sup></td> </tr>  -->
+		 
+		 
 <tr class="odd"><td>Muffin de banana con chia </td> <td align="center">$20</td> <td align="center"></td> <td align="center"></td> </tr> 
 <tr class="odd"><td>Muffin de naranja </td> <td align="center">$20</td> <td align="center"></td> <td align="center"></td> </tr> 
--->
+
 
 <!-- COMBOS MERIENDA -->
 
@@ -108,25 +102,17 @@ orange";"font-weight:bold"><strong>Desayunos</strong> </span>  </td> <td
 align="center"></td> <td align="center"></td> <td align="center"></td> </tr> 
 
 <!-- light -->
-<!--<tr class="odd"><td><span style="color: orange">light </span> yogur 
+<tr class="odd"><td><span style="color: orange">light </span> yogur 
 natural + frutas de estación + granola con jugo de naranja grande </td> <td 
-align="center">$60</td> <td align="center"></td> <td align="center"></td> </tr> -->
+align="center">$60</td> <td align="center"></td> <td align="center"></td> </tr> 
 
 <!-- completo -->
-<!-- <tr class="odd"><td><span style="color: orange">completo </span> café 
-con leche + jugo de naranja grande + mermelada y queso + 3 criollos </td> <td align="center">$70</td> <td align="center"></td> <td align="center"></td> </tr>  -->
-
-<!-- omelette -->
-<tr class="odd"><td><span style="color: orange">omelette </span> café 
-con leche + jugo de naranja grande + omelette </td> <td align="center">$90</td> <td align="center"></td> <td align="center"></td> </tr>
+<tr class="odd"><td><span style="color: orange">completo </span> café 
+con leche + jugo de naranja grande + mermelada y queso + 3 criollos </td> <td align="center">$70</td> <td align="center"></td> <td align="center"></td> </tr> 
 
 <!-- de campo -->
 <tr class="odd"><td><span style="color: orange">de campo </span> café 
 c/leche + pan integral de campo + jugo de naranja grande + mermelada y queso </td> <td align="center">$70</td> <td align="center"></td> <td align="center"></td> </tr> 
-
-<!-- muffin -->
-<tr class="odd"><td><span style="color: orange">muffin </span> café 
-c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td align="center"></td> </tr> 
 
 		</tbody> </table> 
 
@@ -145,10 +131,10 @@ c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td 
 	<strong style="color: orange"; style="font-weight:bold">Cerveza</strong> <ul> 
 		<!-- <li>$15 | 3 Chipás</li> -->
 		<li>$70 | Corona</li> 
-		<li>$80 | Quilmes Cristal</li>
-		<li>$90 | Iguana</li>
-		<li>$110 | Stella Artois †</li> 
-		<li>$120 | Patagonia †</li> 
+		<li>$70 | Quilmes Cristal</li>
+		<li>$80 | Iguana</li>
+		<li>$100 | Stella Artois †</li> 
+		<li>$110 | Patagonia †</li> 
 		<h5><sup>†</sup> Preguntanos por variedades rubias, rojas, negras, 
 		y de trigo </h5>
 		</ul> <pre></pre>
@@ -162,23 +148,32 @@ c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td 
 	 
 	 <strong style="color: orange"; style="font-weight:bold">Salado</strong> 
 	 
-	 <!--
 	 	<ul> 
 		<li>$60 | Tapas con 3 Salsas de Queso Crema
 			<ul>
 				<li>- perejil, chimi-churri, ajo & albahaca</li>
 			</ul>
 		</li>
-		</ul>		-->
+		</ul>		
 	 
 		<ul> 
-		<li>$70 | Sandwiches de pan integral con semillas
+		<li>$70 | Bagels de pan negro
 			<ul>
-				<li>- jamón, queso, queso crema, tomate</li>
+				<li>- jamón, queso</li>
+				<li>- queso crema, tomate, salsa a elección</li>
 			</ul>		
 		</li>	
 		</ul>	
-	
+		
+		<!-- >
+		<li>$70 | Tostado de pan negro [con Nachos]
+			<ul>
+				<li>- jamón, queso</li>
+				<li>- tomate, queso, huevo</li>
+			</ul>
+		</li>
+		-->
+		
 		<ul>
 		<li>$130 | Pizzas integrales</li> 	
 		<ul>
@@ -202,14 +197,6 @@ c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td 
 	<!--<li><strong style="color: gray"> $110 | Jugo + &#189; Pizza </strong></li> --></ul> <pre></pre>
 	<!-- $180 | Picada <ul><li><em>Tabla vegetariana</em> [para 2 personas]. 
 	 quesos, humus de garbanzo y de berenjena, pimientos asados, tomates confitados, frutos secos, panes caseros</li>	</ul> -->
-	 
-	 <strong style="color: orange"; style="font-weight:bold">Sopas [servidas en pan para comer]</strong> 
-	 <ul>
-		 <li>$60 | Sopa Buillon [de siete verduras] <ul>- zapallo negro, zuchinis, apio, tomates, zanahorias, cebollas, cilantro</ul></li>
-		 <li>$60 | Sopa de Calabaza <ul>- con choclos, zapallo, cebolla, pimiento y zanahoria</ul>  </li>
-	 </ul>
-	 
-	 
 	
 	<hr style="color: gray"> 
 	<strong style="color: orange"; style="font-weight:bold"> Tragos</strong> <span style="color: gray"> * [Sabores <nobr>actualizados periódicamente]</nobr></span> <ul>
@@ -219,13 +206,8 @@ c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td 
 		<li>$70 | <em>Campari con Naranja</em> <ul>Exprimido en el momento </ul></li>	
 		<li>$80 | <em>Mojito Infusión de Fruta Dulce </em> <ul>bacardi, menta, sour, almíbar, sprite, fruta dulce a elección </ul></li>	
 		<!-- <li>$80 | <em>Sandiíta</em> <ul>absolut, almíbar, sandía, triple sec, sprite</ul></li> -->
-
-<!-- <<<<<<< HEAD
-=======
-		<!-- cosmopolitan. jugo de lima endulzado con agua de rosas, jugo de arándanos, vodka -->
-<!-- >>>>>>> 7c7a11ce5ff73f4963e0d6275537aeb2464ec1a1 -->
 		<li>$80 | <em>Tranky Panky</em> <ul>absolut<!--vodka-->, cereza maraschino, helado de limón, triple sec, jugo de naranja</ul></li>	
-		<li>$80 | <em>Gin Tonic</em> <ul>gin tanqueray, agua tónica, limón</ul></li>	
+		<li>$80 | <em>Gin Tonic</em> <ul>absolut, agua tónica, limón</ul></li>	
 		<li>$100 | <em>Green Collins<!--(ó Cucumber Collins)--></em> <ul>gin tanqueray, pepino,    almíbar,    sour   </ul></li>	
 		<li>$120 | <em>Baileys con Helado</em> <ul> baileys, helado americana, salsa de chocolate</ul></li>	
 		
@@ -250,7 +232,7 @@ c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td 
 		<br>
 		<strong>Horarios</strong>
 	</p>        
-	<p class="footer-line"> Lunes a Viernes [8 – 14 hs / 18 – 23]</nobr></p>
+	<p class="footer-line"> Lunes a Viernes [9 – 23 hs]</nobr></p>
 		<p class="footer-line">	Viernes y Sábado [Mañana y Noche]</p>
 		<p class="footer-line">	Domingo [Noche]</p>
 		<!-- <p class="footer-line">	DOMINGO CERRADO</p> -->
@@ -269,15 +251,11 @@ c/leche + muffin </td> <td align="center">$60</td> <td align="center"></td> <td 
 		  	<!-- <link rel="icon" type="image/png" href="pics/facebook_social_media_online.png" sizes="16x16"> -->
 		  	<a href="https://www.instagram.com/juicebarcba/"><img src="pics/instagram_social_media_online.png" sizes="16x16" style="width: 10%" itemprop="image"> </a> 
 		  	
-	<h6>Nos gustan las plantas | Recomendamos 
-       <nobr>[ <a href="https://www.facebook.com/Rinconcito-Jardinero-2179760028916070/">Rinconcito Jardinero</a> ]</nobr><br>
-       
-       ¿Reciclás? <!-- Compostamos en casa --> | 
-      Mirá estos proyectos: 
+		  	
+      <h6>¿Reciclás? <!-- Compostamos en casa --> | Mirá estos proyectos: 
        <nobr>[ <a href="https://youtu.be/Z38eCz0Bwwk?t=1">Lombricompuesto</a> ]
        <nobr>[ <a href="https://youtu.be/fsqLJNyrVss?t=77">Precious Plastic</a> ]</nobr></nobr>
-       </h6>
-       </center> <pre></pre>
+       </h6></center> <pre></pre>
     </div>
   </body>
 </html>
