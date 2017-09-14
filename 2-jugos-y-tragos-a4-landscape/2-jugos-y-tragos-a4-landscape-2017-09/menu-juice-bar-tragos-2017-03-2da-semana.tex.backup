@@ -1,0 +1,72 @@
+\documentclass[12pt,a4paper,landscape]{moderncv}
+% \moderncvstyle{classic}
+% \moderncvcolor{blue}
+\moderncvstyle{casual}
+\moderncvcolor{orange}
+
+
+\usepackage[scale=0.8,bottom=-5cm,margin=2.5cm]{geometry}
+% \usepackage[margin=1in]{geometry}
+\usepackage[english]{babel}
+\usepackage{multicol}
+\setlength{\hintscolumnwidth}{2.5cm}
+\setlength{\separatorcolumnwidth}{1em}
+
+\input{metadata}
+% \title{Resume}
+% \firstname{Homer J.}
+% \familyname{Simpson}
+% \address{742 Evergreen Terrace}{Springfield}
+% \extrainfo{* May 12, 1955}
+% \quote{D'oh --- H.\,J.\,Simpson}
+% 
+\begin{document}
+\makecvtitle
+
+\cventry{}{\textsc{* Hechos en el momento con frutas naturales de estaci\'{o}n}}{}{}{}{%
+\textsc{Prensado lento. Sin az\'{u}car. Sin endulzantes. %
+Sabores actualizados peri\'{o}dicamente. \\ M\'{a}s info en%
+} \textsc{http://juicebarcba.com} }  \vspace*{1.2cm}
+
+\begin{multicols}{2}
+\setlength{\maincolumnwidth}{\linewidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}
+
+\input{qrcode}
+\input{jugos}  \bigskip \bigskip 
+\input{tragos}
+
+\end{multicols}
+
+\cventry{}{¿Quer\'{e}s armar tu propio jugo? Eleg\'{\i} 2/3 frutas semana: 
+mel\'{o}n | 
+lim\'{o}n |
+manzana verde |
+manzana |
+durazno |
+zanahoria |
+naranja |
+zanahoria |
+jengibre |
+lim\'{o}n |
+pepino |
+menta}{}{}{}
+%\vspace*{1.2cm}
+
+
+
+\end{document}
+
+
+% \documentclass[12pt,a4paper,landscape,twocolumns]{moderncv} 
+% \moderncvtheme[orange]{casual} 
+% \input{metadata} 
+% \begin{document}
+% \makecvtitle % \maketitle \thispagestyle{empty}
+% \begin{multicols}{2}
+% %     // -- Insert CV here
+% 
+% \input{jugos}
+% \input{tragos}
+% 
+% \end{multicols}
+% \end{document}

@@ -1,0 +1,64 @@
+\documentclass[12pt,a4paper,landscape]{moderncv}
+% \moderncvstyle{classic}
+% \moderncvcolor{blue}
+\moderncvstyle{casual}
+\moderncvcolor{orange}
+
+
+
+\usepackage[margin=1in]{geometry}
+\usepackage[english]{babel}
+\usepackage{multicol}
+\setlength{\hintscolumnwidth}{2.5cm}
+\setlength{\separatorcolumnwidth}{1em}
+
+\input{metadata}
+% \title{Resume}
+% \firstname{Homer J.}
+% \familyname{Simpson}
+% \address{742 Evergreen Terrace}{Springfield}
+% \extrainfo{* May 12, 1955}
+% \quote{D'oh --- H.\,J.\,Simpson}
+% 
+\begin{document}
+\makecvtitle
+
+\cventry{}{%
+\textsc{* Bebidas hechas en el momento con frutas naturales de estaci\'{o}n}{}{}{}{Prensado lento. Sin az\'{u}car. Sin endulzantes. \textit{Sabores actualizados peri\'{o}dicamente. M\'{a}s info en}
+} \textsc{http://juicebarcba.com} }  \vspace*{1.5cm}
+
+\begin{multicols}{2}
+\setlength{\maincolumnwidth}{\linewidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}
+
+\input{jugos} 
+\input{tragos}
+% 
+% \section{Employment}
+% \cventry{1989--present}{Safety Inspector}{Springfield Nuclear Power Plant}{Springfield, USA}{}{Sector 7-G}
+% \cventry{2002--2002}{Chief of Police}{City of Sprintfield}{Springfield, USA}{}{Secured community support in almost-successful effort to expel organized crime from city.}
+% \cventry{2001--2001}{Bartender}{Moe's Tavern and Homer's Hunting Club}{Springfield, USA}{}{Launched remodeling project that led to 100\,\% reduction in clientele (including myself).}
+% \cventry{1992--1993}{Snow-plow driver}{Mr. Plow}{Springfield, USA}{}{Owner, manager and snow-plow driver for the famous local Mr. Plow snow-plowing business.}
+% 
+% \section{Education}
+% \cvitem{Springfield High School}{High School Diploma}
+% 
+% \section{Awards}
+% \cvitem{1992}{Montgomery Burns Award for Outstanding Service in the Field of Excellence.}
+
+\end{multicols}
+\end{document}
+
+
+% \documentclass[12pt,a4paper,landscape,twocolumns]{moderncv} 
+% \moderncvtheme[orange]{casual} 
+% \input{metadata} 
+% \begin{document}
+% \makecvtitle % \maketitle \thispagestyle{empty}
+% \begin{multicols}{2}
+% %     // -- Insert CV here
+% 
+% \input{jugos}
+% \input{tragos}
+% 
+% \end{multicols}
+% \end{document}
