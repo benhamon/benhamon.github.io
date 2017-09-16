@@ -248,23 +248,19 @@ sanguches, donde quieras!! 
 
 1.  ####### 
 
-    ####### • Mastique su bocado hasta que se trague solo, se haga líquido, su organismo entero se lo agradecerá.
+     • Mastique su bocado hasta que se trague solo, se haga líquido, su organismo entero se lo agradecerá.
 
-    #######  • Comprar los alimentos frescos permite aprovechar mejor su capacidad nutritiva y en lo posible, orgánicos.
+      • Comprar los alimentos frescos permite aprovechar mejor su capacidad nutritiva y en lo posible, orgánicos.
 
-    #######  • En primer término ase, en segundo cocine al vapor, luego hierva con la mínima cantidad de agua. 
+      • En primer término ase, en segundo cocine al vapor, luego hierva con la mínima cantidad de agua. 
 
-    ####### • Incorpore a sus comidas un cereal par vez, dos son indigestos, cuanto más su mezcla.
+     • Incorpore a sus comidas un cereal par vez, dos son indigestos, cuanto más su mezcla.
 
-    ####### • Si quiere mantenerse joven, coma más crudo que cocido.
+     • Si quiere mantenerse joven, coma más crudo que cocido.
 
-    ####### • Tenga buenos pensamientos mientras come, lo ayudaran a conseguir una buena digestión aparte de beneficiar su calidad de vida.
+     • Tenga buenos pensamientos mientras come, lo ayudaran a conseguir una buena digestión aparte de beneficiar su calidad de vida.
 
-![](media/image1.jpeg){width="4.186805555555556in"
-height="1.7180555555555554in"}
-
-*A la hora de cocinar pone música linda: sugerencia: la que te den ganas
-de cantar!*
+*A la hora de cocinar pone música linda: sugerencia: la que te den ganas de cantar!*
 
 *Para salir a comer: a mi me gusta “Be prana”, un lugar en la Humberto
 primo esq Urquiza, con todas las opciones.*
