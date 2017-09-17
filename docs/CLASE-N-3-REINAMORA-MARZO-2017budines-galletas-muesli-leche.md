@@ -1,7 +1,6 @@
 *Taller Nº 3 - Desayunos, meriendas y mijo*
 
-*Leche Almendras (se puede hacer con Nueces, avellanas o castañas de
-caju)*
+### Leche Almendras (se puede hacer con Nueces, avellanas o castañas de caju)
 
 Activar las semillas o frutos secos se refiere a un proceso muy simple:
 dejarlas remojando en agua por algunas horas y luego secarlas.
@@ -18,15 +17,17 @@ Pero además, esto significa que al remojar las semillas o frutos secos
 en agua se vuelven mucho más **fáciles de digerir** y las **vitaminas**
 y **minerales** presentes en ellos se absorben con mayor facilidad.
 
-INGRE DIIENTES: 30 almendras (o mas…a gusto), 1 litro de agua, algunos
-frutos secos o frescos para endulzar (pasas, dátiles, duraznos secos,
-duraznos frescos, banana, frutilla, peras, etc.), aceite 1 cdita.
-(opcional - girasol, oliva, coco, uva, etc.), pizca de sal (opcional).
+INGREDIENTES: 
+
+- 30 almendras (o mas…a gusto), 
+- 1 litro de agua, 
+- algunos frutos secos o frescos para endulzar (pasas, dátiles, duraznos secos, duraznos frescos, banana, frutilla, peras, etc.), 
+- aceite 1 cdita. (opcional - girasol, oliva, coco, uva, etc.), 
+- pizca de sal (opcional).
 
 PROCEDIMIENTO
 
-Dejar remojando las semillas para que se activen (de la noche a la
-mañana).
+Dejar remojando las semillas para que se activen (de la noche a la mañana).
 
 Se elimina el agua y se enjuagan las semillas. Licuar los frutos secos
 con el agua (2-4 min.) luego filtrar lo mejor posible con colados o
@@ -43,14 +44,25 @@ NOTA: Si se quiere se pueden procesar los frutos secos con menos agua
 
 *Leche de nuez, algarroba y naranja*
 
-Licuar Leche de nuez ½ litro, 1 cda de algarroba, azúcar mascabo a
-gusto, cáscara de 1 naranja rallada, hielo. Disfrutar
+Licuar 
 
-*Budín de Banana*
+- Leche de nuez ½ litro, 
+- 1 cda de algarroba, 
+- azúcar mascabo a gusto, 
+- cáscara de 1 naranja rallada, 
+- hielo. 
+Disfrutar
 
-1/2 taza aceite, 1 taza azúcar negra -3 huevos - 1 taza de salvado de
-avena - 3/4 taza de harina integral - 2 cditas de polvo de hornear - 1
-cdita de sal - 3 o 4 bananas maduras
+## Budín de Banana
+
+- 1/2 taza aceite, 
+- 1 taza azúcar negra 
+- 3 huevos 
+- 1 taza de salvado de avena 
+- 3/4 taza de harina integral 
+- 2 cditas de polvo de hornear 
+- 1 cdita de sal 
+- 3 ó 4 bananas maduras
 
 Colocar las bananas en la procesadora o hacer un puré a mano. Emulsionar
 ½ taza de aceite, 1 taza de azúcar negra, 3huevos y unir luego con 4 o 5
@@ -69,18 +81,27 @@ y los gajos de frutas frescas (peras, manzanas, ciruelas, bananas quedan
 muy bien) y dejar que se doren. Retirar y acompañar el budín de banana
 con el queso crema y las frutas asadas.
 
-*Tarta Manzana *
 
-*Relleno:* Manzanas peladas (mejor si son verdes), sin semillas y
-cortadas transparentes, ½ kilo - Azúcar, 120 gramos. -Ralladura de ½
-limón o jengibre rallado media cdita. - Pasas de uva (opcional 50 gr) -
-Canela (si le gusta...) una cdita - Manteca derretida, 30 gramos
-(opcional)
+## Tarta Manzana
 
-*Masa*: Harina integral 300 gr, polvo para hornear 1 cdita, azúcar
-integral 100 gr, almidón de maíz 100 gr, Agua cantidad necesaria (media
-taza aprox.), aceite 50 cm3, extracto de vainilla 1 cucharadita. Mezclar
-los ingredientes hasta formar una masa bien lisa. Estirar con palo.
+*Relleno:* 
+
+- Manzanas peladas (mejor si son verdes), sin semillas y cortadas transparentes, ½ kilo 
+- Azúcar, 120 gramos. 
+- Ralladura de ½ limón o jengibre rallado media cdita. 
+- Pasas de uva (opcional 50 gr) 
+- Canela (si le gusta...) una cdita 
+- Manteca derretida, 30 gramos (opcional)
+
+*Masa*: 
+- Harina integral 300 gr, 
+- polvo para hornear 1 cdita, 
+- azúcar integral 100 gr, 
+- almidón de maíz 100 gr, 
+- Agua cantidad necesaria (media taza aprox.), 
+- aceite 50 cm3, 
+- extracto de vainilla 1 cucharadita. 
+Mezclar los ingredientes hasta formar una masa bien lisa. Estirar con palo.
 
 *Preparación:* Con la masa, estirada finita, forre una tartera
 previamente enmantecada y enharinada. Mezcle el azúcar con la ralladura
@@ -90,54 +111,66 @@ Rellene la tarta con una capa de tajaditas de manzanas. Espolvoréelas
 con parte la mezcla de azúcar. Rocíe con parte de la manteca derretida
 (opcional). Continúe rellenándola con manzanas, mezcla de azúcar y
 manteca derretida. Llevar a horno hasa que este lista la masa. Sirva
-tibio ofreciendo aparte crema de leche batida bien espesa o helado
+tibio ofreciendo aparte crema de leche batida bien espesa o helado.
 
-*Granola*
+## Granola
 
-*Ingredientes:* 3 tazas de avena arrollada, 1 1/2 taza de coco rallado,
-1/4 taza de sésamo
+*Ingredientes:* 
+- 3 tazas de avena arrollada, 
+- 1 1/2 taza de coco rallado,
+- 1/4 taza de sésamo integral sin tostar, 
+- 1/2 taza de miel, 
+- 1/4 taza de aceite de girasol o maíz (o menos), 
+- 1 taza de almendras o nueces picadas, 
+- 1 taza de pasas de uvas sin semillas. 
 
-integral sin tostar, 1/2 taza de miel, 1/4 taza de aceite de girasol o
-maíz (o menos), 1 taza de almendras o nueces picadas, 1 taza de pasas de
-uvas sin semillas. Se calienta a
+Se calienta a horno a 1600 Cº se baten el aceite con la miel y se mezclan con los
+ingredientes secos. Se extiende la preparación en una bandeja para homo y se cocina
+durante 20´/15´ aprox., revolviendo de vez en cuando para obtener una mezcla
+uniformemente tostada. Guardar una vez frió en recipiente hermético.
 
-horno a 1600 Cº se baten el aceite con la miel y se mezclan con los
-ingredientes
+### Galletitas rápidas de avena
 
-secos. Se extiende la preparación en una bandeja para homo y se cocina
-durante 20´/15´
+- 2 tazas de avena arrollada 
+- 1 taza de harina leudante 
+- 1 taza harina integral
+- 1 cdita polvo para hornear
+- 3 manzanas o peras chicas 
+- 2 huevos 
+- ½ taza aceite 
+- ¾ taza miel liquida 
+- esencia vainilla ½ cdita
+- ralladura de limón o naranja 
+- opcional: pasas de uva, almendaras picadas, chocolate, coco rallado, etc.
 
-aprox., revolviendo de vez en cuando para obtener una mezcla
-uniformemente
-
-tostada. Guardar una vez frió en recipiente hermético.
-
-*Galletitas rápidas de avena*
-
-2 tazas de avena arrollada – 1 taza de harina leudante – 1 taza harina
-integral- 1 cdita polvo para hornear- 3 manzanas o peras chicas – 2
-huevos – ½ taza aceite – ¾ taza miel liquida – esencia vainilla ½ cdita-
-ralladura de limón o naranja – opcional: pasas de uva, almendaras
-picadas, chocolate, coco rallado, etc.
-
-![](media/image1.jpeg){width="1.5277777777777777in"
-height="1.1458333333333333in"}Mezclar los ingredientes secos en un bols,
+Mezclar los ingredientes secos en un bol,
 y a eso incorporarles 3 manzanas o peras chicas (ralladas o procesadas).
-Aparte en una licuadora o procesadora emulsionar 2 huevos-1/2 taza
-aceite-3/4 taza miel liquida, esencia de vainilla-ralladura limón o
-naranja. Agregarselos a los ingredientes secos. También se le puede
+Aparte en una licuadora o procesadora emulsionar 
+
+- 2 huevos
+- 1/2 taza aceite
+- 3/4 taza miel liquida, 
+- esencia de vainilla
+- ralladura limón o naranja. 
+
+Agregarselos a los ingredientes secos. También se le puede
 agregar a la preparación trocitos de Choc., almendras, pasas de uva,
 coco rallado, etc. (opcional). La preparación no debe quedar liquida,
 sino que se puedan armar bomboncitos con una cuchara en una fuente
 aceitada. Horno moderado 15\`. Cuando estén doradas sacar del horno y
 colocar en una fuente.
 
-*Galletas de chocolate u algarroba, y girasol (6-7) Ingredientes*:
+### Galletas de chocolate u algarroba, y girasol* *(6-7) Ingredientes:
 
-Harina integral 250 grs, Cacao amargo o *algarroba* 2 cucharadas, Polvo
-para hornear 1 cucharadita, Semillas de girasol 5 cucharaditas, sal 1
-cucharadita, azúcar integral o miel 200 gr, aceite 100 cc, 2 huevos,
-extractode vainilla 1 cucharadita
+- Harina integral 250 grs, 
+- Cacao amargo o *algarroba* 2 cucharadas, 
+- Polvo para hornear 1 cucharadita, 
+- Semillas de girasol 5 cucharaditas, 
+- sal 1 cucharadita, 
+- azúcar integral o miel 200 gr, 
+- aceite 100 cc, 
+- 2 huevos, 
+- extracto de vainilla 1 cucharadita
 
 Poner todos los ingredientes en una procesadora menos las semillas, y
 procesar 30 segundos (sino integrar con las manos). Formar bolitas con
@@ -160,15 +193,20 @@ que el cacao y contiene pequeñas cantidades de pectina y lignina, ambas
 favorecedoras de la digestión. Contiene vitamina A y D y tres
 importantes vitaminas del grupo B. Es rica en calcio, fosforo y potasio.
 
-*Jugo verde*
+### Jugo verde
 
-1/4 paquete de espinaca (aprox puede ser menos) - media manzana verde-\
-3 de naranjas - 1 cucharita de miel (o media banana para endulzar)- 1
-cucharita de spirulina - 1/2 maca (opcional) - medio pepino - 4 hielos -
-1 taza de agua -meter todo en la licuadora y listo!
+- 1/4 paquete de espinaca (aprox puede ser menos) 
+- media manzana verde
+- 3 de naranjas 
+- 1 cucharita de miel (o media banana para endulzar)
+- 1 cucharita de spirulina 
+- 1/2 maca (opcional) 
+- medio pepino 
+- 4 hielos 
+- 1 taza de agua 
+Meter todo en la licuadora y listo!
 
-DESINTOXICA-REDUCE APETITO-REDUCE ANTOJOS- PONEN DE BUEN
-HUMOR-ALCALINIZAN EL ORGANISMO-OXIGENAN LA SANGRE- MEJORAN LA PIEL
+DESINTOXICA - REDUCE APETITO - REDUCE ANTOJOS - PONEN DE BUEN HUMOR - ALCALINIZAN EL ORGANISMO - OXIGENAN LA SANGRE - MEJORAN LA PIEL
 
 Es un alimento que te proporcionará muchísimos nutrientes (hierro,
 magnesio, fósforo, potasio, clorofila, vitamina K, vitamina B, vitamina
@@ -182,11 +220,14 @@ Los zumos verdes o **jugos verdes** refuerzan tu sistema inmunológico y
 combaten a lo radicales libres (moléculas que dañan las células y
 aceleran el proceso de envejecimiento).
 
-**WAFLES**
+### WAFLES
 
-4 huevos - 3 tazas tamaño desayuno de leche - 1 taza de manteca
-derretida – 4 tazas de harina – 1 cdita de sal – 5 cditas al ras de
-polvo de hornear
+- 4 huevos 
+- 3 tazas tamaño desayuno de leche 
+- 1 taza de manteca derretida
+- 4 tazas de harina 
+- 1 cdita de sal 
+- 5 cditas al ras de polvo de hornear
 
 Batir a punto letra los huevos, bien espumosos. Agregar poco a poco la
 leche batiendo siempre; luego agregar la manteca derretida. Mezclar los
@@ -202,10 +243,9 @@ de chocolate disuelto.
 Tip 2: se pueden comer salados con verduras a gusto, palta, tomates
 cherry, quesos, etc.
 
-Nota: NO HACE FATA WAFLERA…pueden hacerse en una sartén tipo
-panquequera…
+Nota: NO HACE FALTA WAFLERA … pueden hacerse en una sartén tipo panquequera…
 
-**MUESLI**
+### MUESLI
 
 **Resulta especialmente recomendable en el desayuno**, ya que su
 completa composición nutritiva (contiene hidratos de carbono, proteínas,
@@ -237,8 +277,10 @@ Muesli (cómo hacer nuestra propia versión)
 
 **Ingredientes: (para 2)**
 
-4/6 cdas de copos de avena -1 cda de pasas-2 cdas de pipas de girasol
--nueces, almendras.
+- 4/6 cdas de copos de avena 
+- 1 cda de pasas
+- 2 cdas de pipas de girasol
+- nueces, almendras.
 
 Tostar la avena y las pipas de girasol. Mezclar. Dejar enfriar (se puede
 tostar mas cantidad, guardar y conservar). Rallar 1 manzana, y exprimir
@@ -262,20 +304,29 @@ y es mejor dejarlas descansar 15' a 30' en heladera.
 hasta que tome el color deseado; una vez que apagamos, agregar unas
 gotas de vainilla.
 
-**Pizza de mijo**
+## Pizza de mijo
 
 Ingredientes 6 personas:
 
-200 gr de queso (cremon o muza) – 300 gr Chauchas. o zuchinis – 50 gr
-queso parmesano – 1 atado rucula
+- 200 gr de queso (cremon o muza) 
+- 300 gr Chauchas. o zuchinis 
+- 50 gr queso parmesano 
+- 1 atado rucula
 
-Para la pizza de mijo: 2 tazas de mijo – parmesano – orégano – sal y
-pimienta a gusto
+Para la pizza de mijo: 
 
-Para las cebollas: 250 gr de cebollas morada - 1 dientes de ajo- 2
-cucharadas de azúcar -Tomillo
+- 2 tazas de mijo 
+- parmesano 
+- orégano 
+- sal y pimienta a gusto
 
-Aceite de oliva c/n
+Para las cebollas: 
+
+- 250 gr de cebollas morada 
+- 1 dientes de ajo
+- 2 cucharadas de azúcar 
+- Tomillo 
+- Aceite de oliva c/n
 
 Lavar el mijo en agua y cocinarlo colocando una parte de mijo y cuatro
 partes de agua en una olla. Hervir. Pasarlo un poco de cocción para que
@@ -298,13 +349,18 @@ horno fuerte y servir
 Es ideal para celiacos, se puede reemplazar el mijo por quinoa, sémola o
 polenta.
 
-*Guarnición para la pizza de mijo…*
+### Guarnición para la pizza de mijo…
 
 *Ensalada de manzana y zanahoria y remolacha*
 
-2remolachas – 2 manzanas verdes-2 zanahorias- 2 cdas de queso blanco-1
-cda sopera de mayonesa casera (opcional)- sal y pimienta- 1 cdita de
-azúcar mascabo o miel – jugo de1 limón-
+- 2 remolachas 
+- 2 manzanas verdes
+- 2 zanahorias
+- 2 cdas de queso blanco
+- 1 cda sopera de mayonesa casera (opcional)
+- sal y pimienta
+- 1 cdita de azúcar mascabo o miel 
+- jugo de1 limón
 
 Pelar las verduras y rallar todo en crudo. Agregar los condimentos y
 mezclar bien. Guardar en la heladera hasta el momento de servir.
