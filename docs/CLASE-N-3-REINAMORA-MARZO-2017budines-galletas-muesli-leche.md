@@ -1,4 +1,4 @@
-*Taller Nº 3 - Desayunos, meriendas y mijo*
+# Taller Nº 3 - Desayunos, meriendas y mijo
 
 ### Leche Almendras (se puede hacer con Nueces, avellanas o castañas de caju)
 
