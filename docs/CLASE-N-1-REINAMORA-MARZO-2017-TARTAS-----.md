@@ -5,7 +5,7 @@
 La **harina integral** es el producto resultante de la trituración del grano de trigo entero, sin separación de ninguna parte de él. A diferencia de la harina blanca o refinada, la harina integral conserva la cubierta exterior del grano de trigo (o **salvado**) y el **germen de trigo**, componentes que contienen una gran cantidad de fibra, ácidos grasos esenciales, minerales, vitaminas del complejo B y hierro. La harina blanca, por el contrario, se obtiene únicamente por  molturación del endospermo, parte interna del grano de trigo formada en su mayoría
 por almidón y algo de proteínas.
 
-#### Masa integral base
+#### Masa Integral Base
 colocar en un bols 
 
 - 1 tazas de harina leudante
@@ -20,7 +20,7 @@ Hacer un hueco en el medio, y colocar
 
 Trabajar hasta lograr una masa blanda, luego estirar. Forrar una tartera aceitada, pinchar la masa con un tenedor y precocinar a horno moderado 3' a 5', hasta que la masa este seca pero no dorada. Rellenar a gusto*. *
 
-#### Masa integral con semillas
+#### Masa Integral con Semillas
 
 - Harina integral 2 tazas 
 - Polvo para Hornear 1 cdita 
@@ -49,7 +49,7 @@ Amasar todo junto en lo posible en frio debido a la gran cantidad de manteca que
 
 ## Rellenos
 
-### Tarta de choclo y zanahorias 
+### Tarta de Choclo y Zanahorias 
 
 - 2 choclos
 - 2 zanahorias ralladas
@@ -116,7 +116,7 @@ de:
 
 *(Para 1os rellenos se pueden usar las hojas de remolachas, de rabanitos, de colifor, las partes verdes del puerro, del brócoli, etc.)*
 
-## Salsas para hacer hacer el ligue de las tartas
+## Salsas para hacer hacer el Ligue de las Tartas
 
 **Salsa blanca (sin leche)**: en una cacerola calentar 1/4 taza de aceite, agregar 4 cdas. de harina común, revolver enérgicamente e ir agregando agua caliente, hasta tomar la consistencia deseada. Condimentar con sal y nuez moscada.
 
@@ -132,7 +132,7 @@ de:
 
 ## Tartas Gourmet
 
-### Tarta de zuchinis y berenjenas grilladas (con masa integral con semillas)
+### Tarta de Zuchinis y Berenjenas Grilladas (con Masa Integral con Semillas)
 
 - Tomates 2/3 Unidades 
 - Berenjenas grilladas 4 Unidades  
@@ -152,7 +152,7 @@ ______
 - Verter la mezcla sobre la masa previamente fonzada en un molde
 - Hornear a 160 grados por 25 minutos.
 
-### Tarta de Calabaza con masa Sable
+### Tarta de Calabaza con Masa Sable
 
 - Salsa blanca 200 g 
 - Queso parmesano rallado 150 g

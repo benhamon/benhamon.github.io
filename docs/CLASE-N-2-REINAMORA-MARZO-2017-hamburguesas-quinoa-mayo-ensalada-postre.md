@@ -1,7 +1,8 @@
 # CLASE N° 2
 
-*Hamburguesas de Quinoa*
-------------------------
+# Haburguesas 
+
+## Hamburguesas de Quinoa
 
 Ingredientes: salen 10 grandes 
 
@@ -25,7 +26,7 @@ Se elabora de la siguiente manera: lavar bien dependiendo del estado en que se e
 
 *nota*: la Quínoa es un grano muy parecido al AMARANTO y se preparan de manera similar (no tiene saponina pero se recomienda lavarlo de todas formas) por lo cual, podemos sustituirlo en la mayoría de las preparaciones … se hierve de la misma manera de la quinoa.
 
-## Hamburguesas de lentejas
+## Hamburguesas de Lentejas
 Cantidad 15 hamburguesas (aprox)
 
 - 1 taza de arroz integral cocido 
@@ -62,7 +63,7 @@ Nota: las lentejas hervirlas en abundante agua y agregarle alga kombu (\*)
 
 (\*) Alga kombu: El alga Kombu destaca por sus propiedades remineralizantes, su alto contenido en Yodo y por hacer más digestivas y menos flatulentas las legumbres. Gracias a su riqueza en ácido glutámico, ablanda las fibras de las legumbres u otros alimentos reduciendo su tiempo de cocción, a la vez que aumenta el sabor y la digestibilidad del plato. Debido a la gran riqueza en minerales el alga Kombu es muy utilizada para tratamientos de cara y cuerpo. Ayuda a nuestra piel a eliminar toxinas y le proporciona muchos nutrientes que hacen que la piel se sienta renovada, tonificada e increíblemente suave.
 
-## Hamburguesas de garbanzo
+## Hamburguesas de Garbanzo
 
 - Queso parmesano rallado 1 Puñado  
 - Comino 1 cdita. Sal y Pimienta A gusto 
@@ -93,7 +94,7 @@ Se puede reemplazar las castañas por otro fruto seco o por un poco de arroz o m
 - jugo de limón
 - sal y pimienta
 
-### Mayonesa de remolacha o de zanahoria
+### Mayonesa de Remolacha o de Zanahoria
 
 Ingredientes: 
 
@@ -118,7 +119,7 @@ Preparación: Licuar todos los ingredientes, agregando el líquido de cocción l
 
 Mixear todo junto y servir con lo que más nos guste para acompañar o untar.
 
-## Ensalada de Rúcula, pomelo y nueces caramelizadas
+## Ensalada de Rúcula, Pomelo y Nueces Caramelizadas
 
 - 1 atado de rucula 
 - hojas de perejil, albahaca, menta 
@@ -138,7 +139,7 @@ Colocar en un bowl todos los ingredientes y unas cucharadas de la vinagreta, mez
 
 Aderezos opcionales para cualquier ensalada…
 
-### Mayonesa vegetal de albahaca 
+### Mayonesa Vegetal de Albahaca 
 
 La mayonesa es un claro ejemplo de una emulsión estable. Aunque a la vista nos parezca un ungüento liso y homogéneo, en realidad no lo es. Millones de partículas de aceite están capturadas dentro de agua y esto lo logra también la lecitina, en este caso, presente en la yema de huevo. Existe una versión vegana en la que se reemplaza la yema por
 leche de soja de polvo, alimento también muy rico en lecitina
@@ -155,22 +156,21 @@ leche de soja de polvo, alimento también muy rico en lecitina
 
 \*PUEDE USARSE LECHE COMUN O CUALQUIER LECHE VEGETAL – (podes hacer la mitad de la receta)
 
-### Reducción de aceto balsámico 
+### Reducción de Aceto Balsámico 
 
 Una preparación que brilló en los 90’s, cuando todos los platos parecían terminarse con este jarabe. Se usa en muy poca cantidad: apenas hilos son suficientes como para realzar el sabor de platos como carnes asadas o ensaladas de hojas con quesos, frutas frescas y secas.
 
 Ingredientes: 
 
-- 1 taza de azúcar integral 
-- 2 tazas de aceto balsámico
-- Cáscara de 1 naranja
-- 3 monedas de jengibre
-- 1 diente de ajo
+- 1 taza de Azúcar Integral 
+- 2 tazas de Aceto Balsámico
+- Cáscara de 1 Naranja
+- 3 **monedas** de Jengibre
+- 1 diente de Ajo
 
-Colocar todos los ingredientes en una ollita y cocinar hasta que reduzca a la mitad y tenga brillo y consistencia de jarabe. Conservar en la heladera, preferentemente en una mamadera para que sea fácil de administrar. Los principales ingredientes son el aceto y el azúcar (que también puede ser regular o negra), los perfumes variarán según su gusto
-y aplicación.
+Colocar todos los ingredientes en una ollita y **cocinar** hasta que reduzca a la mitad y tenga brillo y consistencia de jarabe. Conservar en la heladera, preferentemente en una mamadera para que sea fácil de administrar. Los principales ingredientes son el aceto y el azúcar (que también puede ser regular o negra), los perfumes variarán según su gusto y aplicación.
 
-## POSTRE CROCANTE DE FRUTAS (6 personas)
+## Postre Crocante de Frutas (6 personas)
 
 Cortar en rodajas finas 1 ¼ kilo de manzanas rojas, manzanas verdes o peras O DURAZNOS (echar limón para que no se oxiden). Colocar las frutas sobre una fuente para horno de 5-6 cm de alto, previamente enmantecada y enharinada. Luego mezclar partes iguales de azúcar y manteca y harina (100 gr de cada una aprox). A esta mezcla también podemos agregarle nueces, pasas de uva, canela entre otras cosas…
 
