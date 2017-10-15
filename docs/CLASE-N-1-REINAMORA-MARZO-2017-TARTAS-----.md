@@ -1,4 +1,4 @@
-# CLASE N° 1
+# Clase N° 1
 
 ## MASA INTEGRAL
 

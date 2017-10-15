@@ -1,4 +1,4 @@
-# CLASE N° 2
+# Clase N° 2
 
 # Haburguesas 
 
