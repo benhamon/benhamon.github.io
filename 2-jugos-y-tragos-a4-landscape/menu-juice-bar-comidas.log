@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  3 NOV 2017 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  6 NOV 2017 21:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**menu-juice-bar-tragos-2017-04-2da-semana.tex
-(./menu-juice-bar-tragos-2017-04-2da-semana.tex
+**menu-juice-bar-comidas.tex
+(./menu-juice-bar-comidas.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -1475,43 +1475,43 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip92
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 3.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 3.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4.
 
-(./menu-juice-bar-tragos-2017-04-2da-semana.aux
+(./menu-juice-bar-comidas.aux
 <Reading QR code for "http://juicebarcba.com/" at level 2-M from aux file.>
 )
-\openout1 = `menu-juice-bar-tragos-2017-04-2da-semana.aux'.
+\openout1 = `menu-juice-bar-comidas.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 4.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 3.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 4.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 3.
+(Font)              scaled to size 11.39996pt on input line 4.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1543,7 +1543,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 3.
+LaTeX Info: Redefining \microtypecontext on input line 4.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1594,7 +1594,7 @@ Package microtype Info: Loading generic settings for font family
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box80
-Package hyperref Info: Link coloring OFF on input line 3.
+Package hyperref Info: Link coloring OFF on input line 4.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1604,34 +1604,33 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count186
 )
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
+LaTeX Info: Redefining \ref on input line 4.
+LaTeX Info: Redefining \pageref on input line 4.
+LaTeX Info: Redefining \nameref on input line 4.
 
-(./menu-juice-bar-tragos-2017-04-2da-semana.out)
-(./menu-juice-bar-tragos-2017-04-2da-semana.out)
+(./menu-juice-bar-comidas.out) (./menu-juice-bar-comidas.out)
 \@outlinefile=\write3
-\openout3 = `menu-juice-bar-tragos-2017-04-2da-semana.out'.
+\openout3 = `menu-juice-bar-comidas.out'.
 
 \makecvheadpicturebox=\box81
 
 <picture.png, id=12, 133.6995pt x 146.7081pt>
 File: picture.png Graphic file (type png)
  <use picture.png>
-Package pdftex.def Info: picture.png used on input line 4.
+Package pdftex.def Info: picture.png used on input line 5.
 (pdftex.def)             Requested size: 64.0pt x 70.2288pt.
 \makecvheadpicturewidth=\skip93
 \makecvheadnamebox=\box82
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 36.09988pt on input line 4.
+(Font)              scaled to size 36.09988pt on input line 5.
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 36.09988pt on input line 4.
+(Font)              scaled to size 36.09988pt on input line 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--4
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 9.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 12.
 (/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1639,28 +1638,30 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 9.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 12.
 
 (/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 9.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 12.
+
 
 (/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 9.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 12.
+
 
 (/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 12.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 9.
-LaTeX Font Info:    Try loading font information for U+msa on input line 9.
+(Font)              <6> on input line 12.
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1668,7 +1669,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 9.
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1677,17 +1678,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 9.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 9.
+(Font)              scaled to size 11.39996pt on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 9.
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
-(Font)              scaled to size 11.39996pt on input line 9.
+(Font)              scaled to size 11.39996pt on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 9.
+(Font)              scaled to size 10.40245pt on input line 12.
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 10.40245pt on input line 9.
+(Font)              scaled to size 10.40245pt on input line 12.
  (./qrcode.tex
 
 
@@ -1695,55 +1696,60 @@ LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
 
 <Copying the QR code for "http://juicebarcba.com/" in version 2-M as previously
  calculated.>
-) (./jugos.tex
+) (./meriendas.tex
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 4.
+(Font)              scaled to size 16.41594pt on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 16.41594pt on input line 4.
+(Font)              scaled to size 16.41594pt on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/sc' tried instead on input line 4.
+(Font)              Font shape `T1/phv/b/sc' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
-(Font)              scaled to size 16.41594pt on input line 4.
+(Font)              scaled to size 16.41594pt on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 7.
-) (./tragos.tex
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 11.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 11.
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [1
+(Font)              scaled to size 11.39996pt on input line 5.
+) (./comidas.tex)
+Runaway argument?
+{
+! File ended while scanning use of \\cventry.
+<inserted text> 
+                \par 
+l.20 \input{comidas}
+                    
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
+[1
 
 {/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./picture.
 png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
-
-(./menu-juice-bar-tragos-2017-04-2da-semana.aux
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
+ (./menu-juice-bar-comidas.aux
 <Reading QR code for "http://juicebarcba.com/" at level 2-M from aux file.>
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
-Package rerunfilecheck Info: File `menu-juice-bar-tragos-2017-04-2da-semana.out
-' has not changed.
-(rerunfilecheck)             Checksum: E7C8354F36CA73D80C82642021668412;183.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+Package rerunfilecheck Info: File `menu-juice-bar-comidas.out' has not changed.
+
+(rerunfilecheck)             Checksum: A9C36B2A7E12B21245F666391CC2A98E;200.
  ) 
 Here is how much of TeX's memory you used:
- 24859 strings out of 493013
- 396840 string characters out of 6139317
- 507667 words of memory out of 5000000
- 28027 multiletter control sequences out of 15000+600000
- 63842 words of font info for 75 fonts, out of 8000000 for 9000
+ 24852 strings out of 493013
+ 396537 string characters out of 6139317
+ 502537 words of memory out of 5000000
+ 28025 multiletter control sequences out of 15000+600000
+ 60574 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,11n,45p,10408b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,11n,45p,10374b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helveti
-c/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on menu-juice-bar-tragos-2017-04-2da-semana.pdf (1 page, 37232 b
-ytes).
+c/uhvr8a.pfb>
+Output written on menu-juice-bar-comidas.pdf (1 page, 28228 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 35 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
- 23062 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 21014 words of extra memory for PDF output out of 24883 (max. 10000000)
 
