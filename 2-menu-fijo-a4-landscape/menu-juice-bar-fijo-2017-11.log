@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  10 NOV 2017 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  10 NOV 2017 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**menu-juice-bar-2017-11.tex
-(./menu-juice-bar-2017-11.tex
+**menu-juice-bar-fijo-2017-11.tex
+(./menu-juice-bar-fijo-2017-11.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -350,29 +350,7 @@ tter compatibility patches
 \cvcolumnautowidth=\skip66
 \bibindent=\skip67
 )
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-\Gm@cnth=\count120
-\Gm@cntv=\count121
-\c@Gm@tempcnt=\count122
-\Gm@bindingoffset=\dimen140
-\Gm@wd@mp=\dimen141
-\Gm@odd@mp=\dimen142
-\Gm@even@mp=\dimen143
-\Gm@layoutwidth=\dimen144
-\Gm@layoutheight=\dimen145
-\Gm@layouthoffset=\dimen146
-\Gm@layoutvoffset=\dimen147
-\Gm@dimlist=\toks18
-) (./metadata.tex
+(./metadata.tex
 (/usr/share/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
 Package: moderncvstylecasual 2015/07/28 v2.0.0 modern curriculum vitae and lett
 er style scheme: casual
@@ -454,26 +432,38 @@ ter variant: 1
 Package: moderncvcolororange 2015/07/28 v2.0.0 modern curriculum vitae and lett
 er color scheme: orange
 )
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-! LaTeX Error: Option clash for package geometry.
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count120
+\Gm@cntv=\count121
+\c@Gm@tempcnt=\count122
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks18
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \usepackage
-               [english]{babel}
-The package geometry has already been loaded with options:
-  [paperheight=280mm,paperwidth=395mm,margin=1in,heightrounded]
-There has now been an attempt to load it with options
-  [scale=0.8,bottom=-5cm,margin=2.5cm]
-Adding the global options:
-  paperheight=280mm,paperwidth=395mm,margin=1in,heightrounded,scale=0.8,bottom=
--5cm,margin=2.5cm
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
 
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (676.04005pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (478.00812pt) is ignored.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
@@ -1036,7 +1026,7 @@ Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 \TP@margin=\dimen160
 \TP@absmargin=\dimen161
 
-Grid set 16 x 16 = 70.24274pt x 49.79231pt
+Grid set 16 x 16 = 52.81541pt x 37.34424pt
 \TPboxrulesize=\dimen162
 \TP@ox=\dimen163
 \TP@oy=\dimen164
@@ -1485,40 +1475,42 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip92
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 7.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 7.
+Package hyperref Info: Option `breaklinks' set `true' on input line 3.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3.
 
-(./menu-juice-bar-2017-11.aux)
-\openout1 = `menu-juice-bar-2017-11.aux'.
+(./menu-juice-bar-fijo-2017-11.aux)
+\openout1 = `menu-juice-bar-fijo-2017-11.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 7.
- (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 7.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 3.
+
 (/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 7.
+(Font)              scaled to size 11.39996pt on input line 3.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1550,7 +1542,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 7.
+LaTeX Info: Redefining \microtypecontext on input line 3.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1569,24 +1561,24 @@ Package microtype Info: Loading generic settings for font family
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: custom
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: heightrounded 
-* h-part:(L,W,R)=(72.26999pt, 979.34387pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 652.13718pt, 72.26999pt)
-* \paperwidth=1123.88385pt
-* \paperheight=796.67715pt
-* \textwidth=979.34387pt
+* modes: landscape 
+* h-part:(L,W,R)=(71.13188pt, 702.78308pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 455.24411pt, 71.13188pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=702.78308pt
 * \textheight=768.2244pt
 * \oddsidemargin=15.6491pt
-* \evensidemargin=0.0pt
+* \evensidemargin=-1.1381pt
 * \topmargin=-59.75095pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=144.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -1601,7 +1593,7 @@ Package microtype Info: Loading generic settings for font family
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box80
-Package hyperref Info: Link coloring OFF on input line 7.
+Package hyperref Info: Link coloring OFF on input line 3.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1611,29 +1603,29 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count186
 )
-LaTeX Info: Redefining \ref on input line 7.
-LaTeX Info: Redefining \pageref on input line 7.
-LaTeX Info: Redefining \nameref on input line 7.
+LaTeX Info: Redefining \ref on input line 3.
+LaTeX Info: Redefining \pageref on input line 3.
+LaTeX Info: Redefining \nameref on input line 3.
 
-(./menu-juice-bar-2017-11.out) (./menu-juice-bar-2017-11.out)
+(./menu-juice-bar-fijo-2017-11.out) (./menu-juice-bar-fijo-2017-11.out)
 \@outlinefile=\write3
-\openout3 = `menu-juice-bar-2017-11.out'.
+\openout3 = `menu-juice-bar-fijo-2017-11.out'.
 
 \makecvheadpicturebox=\box81
 
 <picture.png, id=24, 133.6995pt x 146.7081pt>
 File: picture.png Graphic file (type png)
  <use picture.png>
-Package pdftex.def Info: picture.png used on input line 8.
+Package pdftex.def Info: picture.png used on input line 4.
 (pdftex.def)             Requested size: 64.0pt x 70.2288pt.
 \makecvheadpicturewidth=\skip93
 \makecvheadnamebox=\box82
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 36.09988pt on input line 8.
+(Font)              scaled to size 36.09988pt on input line 4.
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 36.09988pt on input line 8.
+(Font)              scaled to size 36.09988pt on input line 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--8
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
 
  []
 
@@ -1706,33 +1698,33 @@ LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <12> not available
 LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
 (Font)              scaled to size 11.39996pt on input line 4.
 ) (./cervezas.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 23.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
  [1
 
 {/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./picture.
 png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 23.
- (./menu-juice-bar-2017-11.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
-Package rerunfilecheck Info: File `menu-juice-bar-2017-11.out' has not changed.
-
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
+ (./menu-juice-bar-fijo-2017-11.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 28.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 28.
+Package rerunfilecheck Info: File `menu-juice-bar-fijo-2017-11.out' has not cha
+nged.
 (rerunfilecheck)             Checksum: 0B123131969932B075E88788963361D2;521.
  ) 
 Here is how much of TeX's memory you used:
- 24847 strings out of 493013
- 396384 string characters out of 6139317
- 504817 words of memory out of 5000000
- 28019 multiletter control sequences out of 15000+600000
- 56567 words of font info for 68 fonts, out of 8000000 for 9000
+ 24860 strings out of 493013
+ 396617 string characters out of 6139317
+ 504770 words of memory out of 5000000
+ 28024 multiletter control sequences out of 15000+600000
+ 56817 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 48i,11n,46p,10476b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,11n,46p,10395b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dis
 t/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmsy
 10.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on menu-juice-bar-2017-11.pdf (1 page, 38285 bytes).
+Output written on menu-juice-bar-fijo-2017-11.pdf (1 page, 38368 bytes).
 PDF statistics:
  57 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  3 NOV 2017 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  10 NOV 2017 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1706,44 +1706,67 @@ LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
 (Font)              scaled to size 16.41594pt on input line 4.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 11.39996pt on input line 7.
+
+
+! Package textcomp Error: Symbol \textdownarrow not provided by
+(textcomp)                font family phv in TS1 encoding.
+(textcomp)                Default family used instead.
+
+See the textcomp package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ... naranja [colesterol \textdownarrow]}{}{}{}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 14--14
+[]|\T1/phv/b/n/12 Bitter Mel-lon \T1/phv/m/sl/12 (+20) melón, limón, man-zana v
+erde
+ []
+
 ) (./tragos.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 11.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 11.39996pt on input line 11.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
  [1
 
 {/home/nilon/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./picture.
 png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
-
-(./menu-juice-bar-tragos-2017-04-2da-semana.aux
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+ (./menu-juice-bar-tragos-2017-04-2da-semana.aux
 <Reading QR code for "http://juicebarcba.com/" at level 2-M from aux file.>
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 Package rerunfilecheck Info: File `menu-juice-bar-tragos-2017-04-2da-semana.out
 ' has not changed.
 (rerunfilecheck)             Checksum: E7C8354F36CA73D80C82642021668412;183.
  ) 
 Here is how much of TeX's memory you used:
- 24859 strings out of 493013
- 396840 string characters out of 6139317
- 507667 words of memory out of 5000000
- 28027 multiletter control sequences out of 15000+600000
- 63842 words of font info for 75 fonts, out of 8000000 for 9000
+ 24873 strings out of 493013
+ 397042 string characters out of 6139317
+ 509805 words of memory out of 5000000
+ 28034 multiletter control sequences out of 15000+600000
+ 65541 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,11n,45p,10408b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
-ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helveti
-c/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on menu-juice-bar-tragos-2017-04-2da-semana.pdf (1 page, 37232 b
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/
+texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/publi
+c/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
+pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texm
+f-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on menu-juice-bar-tragos-2017-04-2da-semana.pdf (1 page, 40949 b
 ytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
- 23062 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 24086 words of extra memory for PDF output out of 24883 (max. 10000000)
 
