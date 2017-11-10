@@ -21,14 +21,16 @@ y espesadas con féculas (cremas), así como sopas especiales.
 
 INGREDIENTES (4 porciones):
 
-Batata, 700 g - Cebolla picada, 1 - Aceite de oliva, 100 cc- Pimienta y
-sal marina, cantidad necesaria
-
-Caldo de verdura, 1 litro- Fécula de maíz, 2 cucharadas - Nuez moscada,
-una pizca
-
-Pimiento rojo, 1 - Salsa picante, 5 gotitas (opcional) - Perejil picado,
-un puñadito
+- Batata, 700 g 
+- Cebolla picada, 1 
+- Aceite de oliva, 100 cc
+- Pimienta y sal marina, cantidad necesaria
+- Caldo de verdura, 1 litro
+- Fécula de maíz, 2 cucharadas 
+- Nuez moscada, una pizca
+- Pimiento rojo, 1 
+- Salsa picante, 5 gotitas (opcional) 
+- Perejil picado, un puñadito
 
 PROCEDIMIENTO
 
@@ -54,7 +56,7 @@ Agregale de a poco el aceite y sazoná.
 ·Serví la sopa caliente y decorá cada plato con la salsa de pimiento y
 el perejil.
 
-***Risotto ***
+***Risotto***
 
 El risotto (variación de riso, ‘arroz’ en
 [italiano](http://es.wikipedia.org/wiki/Idioma_italiano)) es una comida
@@ -81,11 +83,26 @@ Originario, pero no tendrán la cremosidad de la receta original.
 
 ***Risotto de Morrones asados***
 
-Ingredientes: Morrones 4 -Aceite de oliva 100 cc-Cebollas 2 -Ajo 2
-dientes-Manteca 200 g -Aceite de maíz o girasol 2 cdas-Arroz carnaroli
-500 g-Caldo de verduras 1,5 l -Tomillo 00 c/n-Queso parmesano 100 g -
-Guarnición: Hinojos 200 g- Cebolla de verdeo 300 g-Aceite de oliva 2
-cdas- Hongos Portobello 200 gr (opcional)- Sal y pimienta c/n
+Ingredientes: 
+
+- Morrones 4 
+- Aceite de oliva 100 cc
+- Cebollas 2 
+- Ajo 2 dientes
+- Manteca 200 g 
+- Aceite de maíz o girasol 2 cdas
+- Arroz carnaroli 500 g
+- Caldo de verduras 1,5 l 
+- Tomillo 00 c/n
+- Queso parmesano 100 g 
+
+Guarnición: 
+
+- Hinojos 200 g
+- Cebolla de verdeo 300 g
+- Aceite de oliva 2 cdas
+- Hongos Portobello 200 gr (opcional)
+- Sal y pimienta c/n
 
 Procedimiento: Quemar los morrones sobre el fuego directo. Cuando la
 piel esté completamente negra, colocar dentro de una bolsa de plástico y
@@ -110,10 +127,17 @@ portobellos.
 
 Ingredientes  (4 porciones)
 
-Hongos secos, 20 g-Cebolla, 1 mediana-Diente de ajo, 1-Pimienta y sal,
-cantidad necesaria-Hongos frescos, 100 g-Aceite de oliva, cantidad
-necesaria-Arroz yamaní,  500 g-Vino tinto, 1/4 taza-Caldo de verdura,
-11/2 litro-Levadura nutricional, 4 cucharadas-Perejil, un puñado
+- Hongos secos, 20 g
+- Cebolla, 1 mediana 
+- Diente de ajo, 1
+- Pimienta y sal, cantidad necesaria
+- Hongos frescos, 100 g
+- Aceite de oliva, cantidad necesaria
+- Arroz yamaní,  500 g
+- Vino tinto, 1/4 taza
+- Caldo de verdura, 1 1/2 litro
+- Levadura nutricional, 4 cucharadas
+- Perejil, un puñado
 
 PROCEDIMIENTO:
 
@@ -157,8 +181,16 @@ especias empleadas variando estos de acuerdo a la imaginación, la
 costumbre e ingredientes usados. Según la época del año, suelen ser los
 más típicos: el tomate, los vegetales y el queso.
 
-Ingrdientes:6 rodajas de pan - 1 diente de ajo – 1 o 2 hinojos – 200 gr
-de ricota – 6 cdas de miel – ciboulette – sal y pim – aceite de oliva
+Ingrdientes:
+
+- 6 rodajas de pan 
+- 1 diente de ajo 
+- 1 o 2 hinojos 
+- 200 gr de ricota 
+- 6 cdas de miel 
+- ciboulette 
+- sal y pim 
+- aceite de oliva
 
 Tostar el pan en grill o sarten de ambos lados y frotarlos con un diente
 de ajo para darle sabor. Untar con una buena ricota fresca y encima
@@ -168,11 +200,17 @@ miel y ciboulette. Salpimentar y terminar con aceite de oliva.
 
 ***Carrot Cake Muffins (Muffins de Zanahoria)***
 
-1.1/4 taza azúcar negra, ¾ taza aceite vegetal, 3 huevos, 2 tazas harina
-integral (puede ser 1 taza y media de harina común), 1.1/2 cucharita
-polvo de hornear, 1 cucharita bicarbonato de sodio, 1 cucharita canela
-molida, ½ cucharita jengibre rallado, 2.1/2 tazas zanahoria rallada, ½
-taza nueces pecan (o comunes) picadas, ½ taza pasas de uva
+- 1 1/4 taza azúcar negra, 
+- ¾ taza aceite vegetal, 
+- 3 huevos, 
+- 2 tazas harina integral (puede ser 1 taza y media de harina común), 
+- 1.1/2 cucharita polvo de hornear, 
+- 1 cucharita bicarbonato de sodio, 
+- 1 cucharita canela molida, 
+- ½ cucharita jengibre rallado, 
+- 2.1/2 tazas zanahoria rallada, 
+- ½ taza nueces pecan (o comunes) picadas, 
+- ½ taza pasas de uva
 
 Precalentar el horno a 180º. Colocar el azúcar y aceite y batir con
 batidor eléctrico durante 2 a 3 minutos (sino a mano energicamente).
@@ -182,10 +220,10 @@ incorporar las zanahorias, nueces y pasas. Colocar en moldes para
 muffins hornear por 25 a 30 minutos o hasta que estén cocidos (probar
 con un palito).
 
-Para cubierta: 90 grs queso crema philadelfia– 3 cdas miel – 3 cdas de
+Para cubierta: 90 grs queso crema philadelfia | 3 cdas miel | 3 cdas de
 yogurt
 
-Cubierta 2: paltas 3 (hass) – 1 cda ras de cacao amsargo – 2cdas de miel
+Cubierta 2: paltas 3 (hass) | 1 cda ras de cacao amsargo | 2cdas de miel
 
 Cubierta 3: espolvorear con azúcar impalpable.
 

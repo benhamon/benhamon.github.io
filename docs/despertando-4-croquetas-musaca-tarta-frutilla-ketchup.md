@@ -1,12 +1,27 @@
 ***Musaka griega vegetariana (6 porciones)***
 
-**Ingredientes**: 4 berenjenas medianas- 100gr de arroz integral, 50 gr
-de lentejas, 1 puñado de alga kombu o wakame (opcional), 1 cebolla, 1
-pim. Colorado, 1 pim. Verde, 5 tomates maduros, 6 dientes de ajo, 15
-olivas negras o verdes, 2 puñados de perejil y romero, 2 cditas de
-pimentón ahumado, 3 papas medianas, muza200 gr, parmesano 50 gr, 4 cdas.
-de levadura de cerveza, 1 cdita de cúrcuma, 1 cdita de canela
-(opcional), pim, sal marina, y aceite de oliva cantidad necesaria.
+**Ingredientes**: 
+
+- 4 berenjenas medianas
+- 100 gr de arroz integral, 
+- 50 gr de lentejas, 
+- 1 puñado de alga kombu o wakame (opcional), 
+- 1 cebolla, 
+- 1 pim. Colorado, 
+- 1 pim. Verde, 
+- 5 tomates maduros, 
+- 6 dientes de ajo, 
+- 15 olivas negras o verdes, 
+- 2 puñados de perejil y romero, 
+- 2 cditas de pimentón ahumado, 
+- 3 papas medianas, 
+- muza 200 gr, 
+- parmesano 50 gr, 
+- 4 cdas. de levadura de cerveza, 
+- 1 cdita de cúrcuma, 
+- 1 cdita de canela (opcional), 
+- pim, sal marina, y 
+- aceite de oliva cantidad necesaria.
 
 **Procedimiento**: lavar bien los vegetales, picar la cebolla, el
 pimiento colorado, los tomates, el ajo, las olivas y el perejil. Cortar
@@ -51,14 +66,26 @@ picado y romero.
 
 ***Croquetas a la española***
 
-Salsa blanca: Harina leudante 150 grs - Manteca 150 grs- Leche1 litro-
-Sal - Pimienta - Nuez moscada
+Salsa blanca: 
 
-Para rebozar: Harina 200 grs - Huevo 3 -Pan rallado 200 grs- Sal
+- Harina leudante 150 grs 
+- Manteca 150 grs
+- Leche1 litro
+- Sal / Pimienta 
+- Nuez moscada
 
-Para rellenar: Mozzarela 200 grs Cebolla de verdeo 1 Espinaca 1 atado
-(la idea es que se haga una salsa bechamel bien espesa por eso las
-cantidades de manteca y harina son 150 gr en vez de 50 gr)
+Para rebozar: 
+
+- Harina 200 grs 
+- Huevo 3 
+- Pan rallado 200 grs
+- Sal
+
+Para rellenar: 
+
+- Mozzarela 200 grs 
+- Cebolla de verdeo 1 
+- Espinaca 1 atado (la idea es que se haga una salsa bechamel bien espesa por eso las cantidades de manteca y harina son 150 gr en vez de 50 gr)
 
 Procedimiento
 
@@ -72,11 +99,17 @@ aprox. Formar bolas no muy grandes y pasar por harina, huevos
 condimentados y pan rallado. Llevar a la heladera un rato mas. Freir en
 abundante aceite.
 
-***KETCHUP NATURAL o KETCHUP RAW: ***
+***KETCHUP NATURAL o KETCHUP RAW:***
 
-Ingredientes: tomates frescos 2 – tomates secos 7 – aceite ½ taza aprox
-– dátil remojado 1 (o 1 cucharadita de azúcar mascado integral o común)
-– vinagre 2 cditas – sal y pimienta a gusto.\
+Ingredientes: 
+
+- tomates frescos 2 
+- tomates secos 7 
+- aceite ½ taza aprox
+- dátil remojado 1 (o 1 cucharadita de azúcar mascado integral o común)
+- vinagre 2 cditas 
+- sal y pimienta a gusto.\
+
 Mixear todos los ingredientes y usar con lo que más nos guste para
 acompañar o untar…Opcional: agregar unas gotas de aji picante o medio
 chile picado a la preparación.
@@ -85,8 +118,13 @@ chile picado a la preparación.
 
 Ingredientes para 8 personas
 
-Tarta: 100 gr de harina integral – 100 gr de harina 0000 – 100 gr de
-manteca – 100 gr de azúcar impalpable – 1 huevo
+Tarta: 
+
+- 100 gr de harina integral 
+- 100 gr de harina 0000 
+- 100 gr de manteca 
+- 100 gr de azúcar impalpable 
+- 1 huevo
 
 Relleno: 300 gr de frutilla
 

@@ -2,10 +2,15 @@
 
 **Ingredientes**
 
-Cebolla chica 1 Manteca c/n Espinaca 600 g Ricota 350 g (de la mas dura
-idealmente o sino la cremosa pero filtrada con paño o tela para eliminar
-liquidos) Queso parmesano rallado c/n Huevos 2 Yema 1 Sal y pimienta c/n
-Nuez moscada c/n Harina 0000 100 g
+- Cebolla chica 1 
+- Manteca c/n Espinaca 600 g 
+- Ricota 350 g (de la mas dura idealmente, o sino la cremosa pero filtrada con paño o tela para eliminar liquidos) 
+- Queso parmesano rallado c/n 
+- Huevos 2 
+- Yema 1 
+- Sal y pimienta c/n
+- Nuez moscada c/n 
+- Harina 0000 100 g
 
 Rehogar la cebolla picada en una sartén con 40 g de manteca.\
 Blanquear la espinaca. Picar y agregar a la preparación, fuera del
@@ -45,15 +50,16 @@ sabor a mar, sal y pimienta negra a gusto.
 
 **Ingredientes**
 
-3/4 peras grandes (no muy maduras) - 1/2 l. de vino tinto - 150 gr. de
-azúcar - 1 rama de canela
-
-Cáscara de naranja - Cáscara de limón
+- 3/4 peras grandes (no muy maduras) 
+- 1/2 l. de vino tinto 
+- 150 gr. de azúcar 
+- 1 rama de canela
+- Cáscara de naranja / Cáscara de limón
 
 (Para aromatizar el almíbar de vino puede usarse también vainilla,
 cardamomo, incluso anís o un licor dulce)
 
-**Preparación **
+**Preparación**
 
 Pelamos las peras, dejándoles el rabito de la parte superior para poder
 luego manipularlas con facilidad. Si disponemos de un utensilio para
@@ -87,10 +93,15 @@ Pueden consumirse templadas o frías según gustos, aunque la manera más
 típica es consumirlas una vez hayan enfriando en el frigorífico. Podemos
 calentar ligeramente el almíbar para que haga contraste con la fruta.
 
-**Para acompañar - Crema de frutas secas- **
+**Para acompañar | Crema de frutas secas**
 
-Ingredientes: Almendras 1/2 Taza - Queso crema 300 grs. -Canela 1 cdita.
-- Azúcar impalpable 1 Taza – Ralladura de naranja o limón c/n (opcional)
+Ingredientes: 
+
+- Almendras 1/2 Taza 
+- Queso crema 300 grs. 
+- Canela 1 cdita.
+- Azúcar impalpable 1 Taza 
+- Ralladura de naranja o limón c/n (opcional)
 
 Coloque en un bowl queso crema y azúcar impalpable, mezcle con una
 espátula y agregue canela, las almendras previamente tostadas y
@@ -108,10 +119,15 @@ comer Focaccia en la iglesia durante la misa.
 
 **Ingredientes**
 
-Harina (000) 500 gr - Agua 350 cm3 – levadura seca 5gr (o fresca 20 gr)
-– sal 10 gr (una cda ras) - Aceite de oliva 50 gr (5 cdas) – sémola (20
-gr) opcional - Aceite oliva para la superficie (c/n) – romero fresco
-(c/n) – sal gruesa (c/n)
+- Harina (000) 500 gr 
+- Agua 350 cm3 
+- levadura seca 5gr (o fresca 20 gr)
+- sal 10 gr (una cda ras) 
+- Aceite de oliva 50 gr (5 cdas) 
+- sémola (20 gr) opcional 
+- Aceite oliva para la superficie (c/n) 
+- romero fresco (c/n) 
+- sal gruesa (c/n)
 
 **Procedimiento**
 
@@ -143,14 +159,16 @@ asados, etc.
 
 ***QUESO UNTABLE DE GIRASOL***
 
-**Ingredientes:** 1 taza semillas previamente hidratadas - ¼ taza de
-jugo de limón (a gusto) y ¼ taza de agua
+**Ingredientes:** 
 
-Albaca o perejil o cilantro o rucula (una o dos cucharadas) - 1
-cucharadita de sal marina -1 cucharadita de ajo o jengibre
-
-1 cucharadita de Pimentón -1 cucharadita de levadura de cerveza
-nutricional
+- 1 taza semillas previamente hidratadas 
+- ¼ taza de jugo de limón (a gusto) 
+- ¼ taza de agua
+- Albaca o perejil o cilantro o rucula (una o dos cucharadas) 
+- 1 cucharadita de sal marina 
+- 1 cucharadita de ajo o jengibre
+- 1 cucharadita de Pimentón 
+- 1 cucharadita de levadura de cerveza nutricional
 
 **Procedimiento:** Se hidratan las semillas por un periodo de entre 4 y
 6 horas, se descarta ese líquido y las enjuagamos. Se mezcla con el

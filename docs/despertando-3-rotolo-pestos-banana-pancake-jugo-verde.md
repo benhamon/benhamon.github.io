@@ -4,15 +4,23 @@ Ingredientes para 6 personas
 
 Masa
 
-400gr de harina – 4 huevos enteros – 1 chorrito de oliva – 1 puñado de
-sal
+- 400gr de harina 
+- 4 huevos enteros 
+- 1 chorrito de oliva 
+- 1 puñado de sal
 
 Para el relleno
 
-1 cebolla picada – 1 diente de ajo picado – 2 atados de espinaca
-blanqueados escurridas y procesadas – 500 gr de hongos frescos
-fileteados – 200 gr de ricota – 100 gr de parmesano – perejil picado –
-nuez moscada – 1 o 2 huevos – sal y pimienta
+- 1 cebolla picada 
+- 1 diente de ajo picado 
+- 2 atados de espinaca blanqueados escurridas y procesadas 
+- 500 gr de hongos frescos fileteados 
+- 200 gr de ricota 
+- 100 gr de parmesano 
+- perejil picado 
+- nuez moscada 
+- 1 o 2 huevos 
+- sal y pimienta
 
 Hacer la masa de pasta clásica mezclando la harina , la sal, huevos, y
 por último, el aceite de oliva hasta que quede bien unida. De ser
@@ -47,10 +55,16 @@ parmesano y un caldito suave.
 En nuestro caso lo acompañaremos con unas verduras asadas y un pesto
 exquisito
 
-Pesto: partes iguales de albahaca y perejil (1 puñado), 1 diente de ajo,
-parmesano (2 cdas), nueces (50 gr), aceite de oliva cantidad necesaria
-(bastante) y sal pimentar a gusto. Procesar todo con mini pimer, mortero
-o multiprocesadora.
+Pesto: 
+
+- partes iguales de albahaca y perejil (1 puñado), 
+- 1 diente de ajo,
+- parmesano (2 cdas), 
+- nueces (50 gr), 
+- aceite de oliva cantidad necesaria (bastante) y 
+- sal pimentar a gusto 
+
+Procesar todo con mini pimer, mortero o multiprocesadora.
 
 ***PAPPARDELLE***
 
@@ -81,9 +95,14 @@ encima.
 
 ***JUGO VERDE***
 
-1/4 paquete de espinaca (aprox puede ser menos) - media manzana verde-\
-jugo de 3 naranjas - 1 cucharita de miel (o media banana para endulzar)-
-1/2 maca (opcional) - medio pepino - 4 hielos - 1 taza de agua
+- 1/4 paquete de espinaca (aprox puede ser menos) 
+- media manzana verde
+- jugo de 3 naranjas 
+- 1 cucharita de miel (o media banana para endulzar)
+- 1/2 maca (opcional) 
+- medio pepino 
+- 4 hielos 
+- 1 taza de agua
 
 Procedimiento: meter todo en la licuadora y listo!
 
@@ -102,21 +121,31 @@ Los zumos verdes o **jugos verdes** refuerzan tu sistema inmunológico y
 combaten a lo radicales libres (moléculas que dañan las células y
 aceleran el proceso de envejecimiento).
 
-***PANCAKES DE BANANA ***
+***PANCAKES DE BANANA***
 
 *Ingredientes (8 PORCIONES)*
 
-Masa: 200 g de harina - 1 cda de polvo para hornear -50 gr de azúcar- 1
-cdita de sal – 2 huevos – 200cc leche – 50 gr de manteca – 2 bananas
+Masa: 
+
+- 200 g de harina 
+- 1 cda de polvo para hornear 
+- 50 gr de azúcar
+- 1 cdita de sal 
+- 2 huevos 
+- 200cc leche 
+- 50 gr de manteca 
+- 2 bananas
 
 Bananas y manzanas caramelizadas
 
-2 bananas - 2 manzanas – 150 gr de azúcar rubia
+- 2 bananas 
+- 2 manzanas 
+- 150 gr de azúcar rubia
 
 Salsa de dulce de leche
 
-100 gr de dulce de leche – 3 cdas de licor de café o baylis (u otro tipo
-de alcochol a mano para disolver con dulce de leche) -
+- 100 gr de dulce de leche 
+- 3 cdas de licor de café o baylis (u otro tipo de alcochol a mano para disolver con dulce de leche) -
 
 Extra: helado de crema o vainilla
 
