@@ -1,0 +1,38 @@
+\documentclass[12pt,a4paper,landscape]{moderncv} 
+\input{metadata}
+\begin{document}
+\makecvtitle
+
+% \cventry{}{\textsc{Jugos hechos en el momento con Frutas Frescas de Estaci\'{o}n}}{}{}{}{%
+% \textsc{Prensado lento. Sin az\'{u}car (excepto Limonada y Leches de Coco). \\ Sin endulzantes. %\\
+% Sabores actualizados peri\'{o}dicamente.}} % M\'{a}s info en} \textsc{http://juicebarcba.com} }  
+%  \vspace*{0.5cm}
+
+\begin{multicols}{2}
+\setlength{\maincolumnwidth}{\linewidth-\leftskip-\rightskip-\separatorcolumnwidth-\hintscolumnwidth}
+
+\input{meriendas}
+\input{cervezas}
+\input{comidas}  \columnbreak
+% \vfill\null \columnbreak
+\input{tragos} %\pagebreak
+\end{multicols}
+
+%\vspace*{1.2cm}
+
+\end{document}
+
+
+% \documentclass[12pt,a4paper,landscape,twocolumns]{moderncv} 
+% \moderncvtheme[orange]{casual} 
+% \input{metadata} 
+% \begin{document}
+% \makecvtitle % \maketitle \thispagestyle{empty}
+% \begin{multicols}{2}
+% %     // -- Insert CV here
+% 
+% \input{jugos}
+% \input{tragos}
+% 
+% \end{multicols}
+% \end{document}
