@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  12 NOV 2017 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.3.19)  13 NOV 2017 17:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1685,11 +1685,11 @@ LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
 (Font)              scaled to size 16.41594pt on input line 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 7.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 7.
+(Font)              scaled to size 11.39996pt on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 7.
+(Font)              scaled to size 11.39996pt on input line 6.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.40245pt on input line 7.
 ) (./cervezas.tex)
@@ -1722,7 +1722,7 @@ t' has not changed.
 Here is how much of TeX's memory you used:
  24858 strings out of 493013
  396788 string characters out of 6139317
- 502918 words of memory out of 5000000
+ 503918 words of memory out of 5000000
  28026 multiletter control sequences out of 15000+600000
  53544 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1732,7 +1732,7 @@ ts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmsy
 10.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on 2-menu-juice-bar-comida-tragos-2017-11-11.pdf (1 page, 62237 
+Output written on 2-menu-juice-bar-comida-tragos-2017-11-11.pdf (1 page, 62456 
 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
